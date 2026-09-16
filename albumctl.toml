@@ -1,0 +1,8 @@
+output_directory = "/archive/Music"
+
+[metadata]
+
+[children]
+modules = [
+	"John Coltrane - (1965) A Love Supreme",
+]

@@ -1,0 +1,9 @@
+[metadata]
+artist = "John Coltrane"
+title = "A Love Supreme"
+year = "1965"
+
+[children]
+modules = [
+	"(2010) AIPJ 77",
+]

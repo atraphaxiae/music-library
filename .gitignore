@@ -1,0 +1,11 @@
+*
+
+!/.gitignore
+!/LICENSE
+!/README.md
+!/albumctl.toml
+
+!/John Coltrane - (1965) A Love Supreme/
+!/John Coltrane - (1965) A Love Supreme/module.toml
+!/John Coltrane - (1965) A Love Supreme/(2010) AIPJ 77/
+!/John Coltrane - (1965) A Love Supreme/(2010) AIPJ 77/module.toml

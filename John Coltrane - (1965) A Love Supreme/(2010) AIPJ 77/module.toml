@@ -5,5 +5,51 @@ media_type = "45 RPM"
 audio_channels = "Stereo"
 provenance = "SteveMTNO"
 
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Part I - Acknowledgement"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Part II - Resolution"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Part III - Pursuance"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Part IV - Psalm"
+
 [children]
-files = []
+[[children.files]]
+file = "John Coltrane - A Love Supreme - 24-96/1.Acknowledgement.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - A Love Supreme - 24-96/2.Resolution.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - A Love Supreme - 24-96/3.Persuance.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - A Love Supreme - 24-96/4.Psalm.flac"
+disc_number = 4
+track_number = 1

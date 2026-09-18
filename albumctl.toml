@@ -1,5 +1,17 @@
 output_directory = "/archive/Music"
 
+[conversion]
+ffmpeg_command = "ffmpeg"
+target_format = "flac"
+sample_rate = 44100
+sample_format = "s16"
+
+[replaygain]
+rsgain_command = "rsgain"
+album_gain = true
+target_lufs = -18.0
+clip_mode = "disabled"
+
 [metadata]
 
 [children]

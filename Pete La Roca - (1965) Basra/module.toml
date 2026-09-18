@@ -1,0 +1,9 @@
+[metadata]
+artist = "Pete La Roca"
+album = "Basra"
+year = "1965"
+
+[children]
+modules = [
+	"(2012) MMBST-84205"
+]

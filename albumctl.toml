@@ -18,6 +18,7 @@ clip_mode = "disabled"
 modules = [
 	"John Coltrane - (1965) A Love Supreme",
 	"McCoy Tyner - (1967) The Real McCoy",
+	"Pete La Roca - (1965) Basra",
 	"Wayne Shorter - (1964) Night Dreamer",
 	"Wayne Shorter - (1966) Speak No Evil",
 ]

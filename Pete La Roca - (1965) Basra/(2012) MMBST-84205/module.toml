@@ -1,0 +1,73 @@
+[metadata]
+catalog_number = "MMBST-84205"
+release_year = "2012"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "SteveMTNO"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Malaguena"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Candu"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Tears Come From Heaven"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Basra"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Lazy Afternoon"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Eiderdown"
+
+[children]
+[[children.files]]
+file = "Pete La Roca - Basra 1965/01 Malaguena.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Pete La Roca - Basra 1965/02 Candu.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Pete La Roca - Basra 1965/03 Tears Come From Heaven.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Pete La Roca - Basra 1965/04 Basra.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Pete La Roca - Basra 1965/05 Lazy Afternoon.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Pete La Roca - Basra 1965/06 Eiderdown.flac"
+disc_number = 4
+track_number = 2

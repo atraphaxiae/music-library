@@ -6,4 +6,5 @@ output_directory = "/archive/Music"
 modules = [
 	"John Coltrane - (1965) A Love Supreme",
 	"Wayne Shorter - (1964) Night Dreamer",
+	"Wayne Shorter - (1966) Speak No Evil",
 ]

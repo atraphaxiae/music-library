@@ -1,0 +1,67 @@
+[metadata]
+catalog_number = "MMBST-84194"
+release_year = "2015"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2016"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Witch Hunt"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Fee-Fi-Fo-Fum"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dance Cadaverous"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Speak No Evil"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Infant Eyes"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wild Flower"
+
+[children]
+[[children.files]]
+file = "Wayne Shorter - Speak No Evil (MM 33)/01 - Witch Hunt.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Speak No Evil (MM 33)/02 - Fee-Fi-Fo-Fum.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - Speak No Evil (MM 33)/03 - Dance Cadaverous.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Wayne Shorter - Speak No Evil (MM 33)/04 - Speak No Evil.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Speak No Evil (MM 33)/05 - Infant Eyes.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - Speak No Evil (MM 33)/06 - Wild Flower.flac"
+disc_number = 2
+track_number = 3

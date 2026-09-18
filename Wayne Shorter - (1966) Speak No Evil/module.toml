@@ -1,0 +1,9 @@
+[metadata]
+artist = "Wayne Shorter"
+album = "Speak No Evil"
+year = "1966"
+
+[children]
+modules = [
+	"(2015) MMBST-84194"
+]

@@ -1,0 +1,9 @@
+[metadata]
+artist = "McCoy Tyner"
+album = "The Real McCoy"
+year = "2020"
+
+[children]
+modules = [
+	"(2020) 0743884"
+]

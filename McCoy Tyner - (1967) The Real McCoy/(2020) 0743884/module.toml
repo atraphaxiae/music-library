@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "0743884"
+release_year = "2020"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Passion Dance"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Contemplation"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Four by Five"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Search for Peace"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blues on the Corner"
+
+[children]
+[[children.files]]
+file = "McCoy Tyner - The Real McCoy (1967)(2020)(USA & Europe)[LP][24-96][FLAC]/A1. Passion Dance.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "McCoy Tyner - The Real McCoy (1967)(2020)(USA & Europe)[LP][24-96][FLAC]/A2. Contemplation.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "McCoy Tyner - The Real McCoy (1967)(2020)(USA & Europe)[LP][24-96][FLAC]/B1. Four By Five.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "McCoy Tyner - The Real McCoy (1967)(2020)(USA & Europe)[LP][24-96][FLAC]/B2. Search For Peace.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "McCoy Tyner - The Real McCoy (1967)(2020)(USA & Europe)[LP][24-96][FLAC]/B3. Blues On The Corner.flac"
+disc_number = 2
+track_number = 3

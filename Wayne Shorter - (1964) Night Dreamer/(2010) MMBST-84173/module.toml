@@ -1,0 +1,73 @@
+[metadata]
+catalog_number = "MMBST-84173"
+release_year = "2010"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "SteveMTNO"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Night Dreamer"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Oriental Folk Song"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Virgo"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Black Nile"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Charcoal Blues"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Armageddon"
+
+[children]
+[[children.files]]
+file = "Wayne Shorter - Night Dreamer 1964/01 Night Dreamer.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Night Dreamer 1964/02 Oriental Folk Song.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Night Dreamer 1964/03 Virgo.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - Night Dreamer 1964/04 Black Nile.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Night Dreamer 1964/05 Charcoal Blues.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Night Dreamer 1964/06 Armageddon.flac"
+disc_number = 4
+track_number = 2

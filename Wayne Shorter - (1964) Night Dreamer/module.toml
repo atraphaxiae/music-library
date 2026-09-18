@@ -1,0 +1,9 @@
+[metadata]
+artist = "Wayne Shorter"
+album = "Night Dreamer"
+year = "1964"
+
+[children]
+modules = [
+	"(2010) MMBST-84173"
+]

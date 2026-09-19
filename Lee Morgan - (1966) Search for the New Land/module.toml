@@ -1,0 +1,9 @@
+[metadata]
+artist = "Lee Morgan"
+album = "Search for the New Land"
+year = "1966"
+
+[children]
+modules = [
+	"(2016) MMBST-84169"
+]

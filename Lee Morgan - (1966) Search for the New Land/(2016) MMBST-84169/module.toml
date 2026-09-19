@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "MMBST-84169"
+release_year = "2016"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2016"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Search for the New Land"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Joker"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mr. Kenyatta"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Melancholee"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Morgan the Pirate"
+
+[children]
+[[children.files]]
+file = "Lee Morgan - Search For The New Land (MM33)/01 - Search For The New Land.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Search For The New Land (MM33)/02 - The Joker.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - Search For The New Land (MM33)/03 - Mr. Kenyatta.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Search For The New Land (MM33)/04 - Melancholee.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - Search For The New Land (MM33)/05 - Morgan The Pirate.flac"
+disc_number = 2
+track_number = 3

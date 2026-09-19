@@ -1,6 +1,6 @@
 output_directory = "/archive/Music"
 
-[conversion]
+[convert]
 ffmpeg_command = "ffmpeg"
 target_format = "flac"
 sample_rate = 44100

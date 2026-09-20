@@ -1,0 +1,9 @@
+[metadata]
+artist = "Charles Mingus"
+album = "Blues & Roots"
+year = "1960"
+
+[children]
+modules = [
+	"(2023) APA 001-45"
+]

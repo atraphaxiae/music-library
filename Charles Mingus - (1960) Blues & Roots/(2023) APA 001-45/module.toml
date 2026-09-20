@@ -1,0 +1,73 @@
+[metadata]
+catalog_number = "APA 001-45"
+release_year = "2023"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2023"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wednesday Night Prayer Meeting"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Cryin' Blues"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Moanin"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Tensions"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "My Jelly Roll Soul"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "E's Flat Ah's Flat Too"
+
+[children]
+[[children.files]]
+file = "Charles Mingus - Blues And Roots (AP 75)/01 - Wednesday Night Prayer Meeting.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Charles Mingus - Blues And Roots (AP 75)/02 - Cryin' Blues.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Charles Mingus - Blues And Roots (AP 75)/03 - Moanin'.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Charles Mingus - Blues And Roots (AP 75)/04 - Tensions.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Charles Mingus - Blues And Roots (AP 75)/05 - My Jelly Roll Soul.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Charles Mingus - Blues And Roots (AP 75)/06 - E's Flat Ah's Flat Too.flac"
+disc_number = 4
+track_number = 1

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Herbie Hancock"
+album = "Head Hunters"
+year = "1973"
+
+[children]
+modules = [
+	"(2020) APJ 084-45"
+]

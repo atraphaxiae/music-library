@@ -1,0 +1,55 @@
+[metadata]
+catalog_number = "APJ 084-45"
+release_year = "2020"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2021"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Chameleon"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Watermelon Man"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sly"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Vein Melter"
+
+[children]
+[[children.files]]
+file = "Herbie Hancock - Head Hunters (AP45)/01 - Chameleon.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Head Hunters (AP45)/02 - Watermelon Man.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Head Hunters (AP45)/03 - Sly.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Head Hunters (AP45)/04 - Vein Melter.flac"
+disc_number = 4
+track_number = 1

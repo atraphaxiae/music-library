@@ -1,0 +1,9 @@
+[metadata]
+artist = "Yes"
+album = "Fragile"
+year = "1971"
+
+[children]
+modules = [
+	"(2025) APA 014-45"
+]

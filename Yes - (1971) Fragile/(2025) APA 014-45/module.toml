@@ -1,0 +1,100 @@
+[metadata]
+catalog_number = "APA 014-45"
+release_year = "2025"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2025"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Roundabout"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Cans and Brahms (Extracts From Brahms' 4th Symphony in E minor, Third Movement)"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "We Have Heaven"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "South Side of the Sky"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Five per Cent for Nothing"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Long Distance Runaround"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Fish (Schindleria praematurus)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mood for a Day"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Heart of the Sunrise"
+
+[children]
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/01 - Roundabout.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/02 - Cans And Brahms.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/03 - We Have Heaven.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/04 - South Side Of The Sky.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/05 - Five Per Cent For Nothing.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/06 - Long Distance Runaround.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/07 - The Fish (Schindleria Praematurus).flac"
+disc_number = 3
+track_number = 3
+
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/08 - Mood For A Day.flac"
+disc_number = 3
+track_number = 4
+
+[[children.files]]
+file = "Yes - 1971 - Fragile [PBTHAL 2025] (2025 US Atlantic 75 Reissue)/09 - Heart Of The Sunrise.flac"
+disc_number = 4
+track_number = 1

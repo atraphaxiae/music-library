@@ -1,0 +1,9 @@
+[metadata]
+artist = "Art Blakey"
+album = "Art Blakey and The Jazz Messengers [Moanin']"
+year = "1959"
+
+[children]
+modules = [
+	"(2014) MMBST-84003"
+]

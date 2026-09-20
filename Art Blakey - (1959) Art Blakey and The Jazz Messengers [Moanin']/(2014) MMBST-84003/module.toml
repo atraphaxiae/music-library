@@ -1,0 +1,67 @@
+[metadata]
+catalog_number = "MMBST-84003"
+release_year = "2014"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Moanin'"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Are You Real"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Along Came Betty"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Drum Thunder (Miniature) Suite"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blues March"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Come Rain or Come Shine"
+
+[children]
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Art Blakey And The Jazz Messengers (MM33)/01 - Moanin'.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Art Blakey And The Jazz Messengers (MM33)/02 - Are You Real.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Art Blakey And The Jazz Messengers (MM33)/03 - Along Came Betty.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Art Blakey And The Jazz Messengers (MM33)/04 - The Drum Thunder (Miniature) Suite.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Art Blakey And The Jazz Messengers (MM33)/05 - Blues March.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Art Blakey And The Jazz Messengers (MM33)/06 - Come Rain Or Come Shine.flac"
+disc_number = 2
+track_number = 3

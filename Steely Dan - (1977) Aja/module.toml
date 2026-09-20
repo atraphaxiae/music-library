@@ -1,0 +1,9 @@
+[metadata]
+artist = "Steely Dan"
+album = "Aja"
+year = "1977"
+
+[children]
+modules = [
+	"(2023) UHQR 0014-45"
+]

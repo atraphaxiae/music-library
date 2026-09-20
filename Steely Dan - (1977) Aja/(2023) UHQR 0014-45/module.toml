@@ -1,0 +1,82 @@
+[metadata]
+catalog_number = "UHQR 0014-45"
+release_year = "2023"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2023"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Black Cow"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Aja"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Deacon Blues"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Peg"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Home at Last"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I Got the News"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Josie"
+
+[children]
+[[children.files]]
+file = "Steely Dan - Aja (UHQR)/01 - Black Cow.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Steely Dan - Aja (UHQR)/02 - Aja.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Steely Dan - Aja (UHQR)/03 - Deacon Blues.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Steely Dan - Aja (UHQR)/04 - Peg.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Steely Dan - Aja (UHQR)/05 - Home At Last.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Steely Dan - Aja (UHQR)/06 - I Got The News.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Steely Dan - Aja (UHQR)/07 - Josie.flac"
+disc_number = 4
+track_number = 2

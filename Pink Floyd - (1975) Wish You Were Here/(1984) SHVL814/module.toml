@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "SHVL814"
+release_year = "1984"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2022"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Shine On You Crazy Diamond (1-5)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Welcome to the Machine"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Have a Cigar"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wish You Were Here"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Shine On You Crazy Diamond (6-9)"
+
+[children]
+[[children.files]]
+file = "Pink Floyd - Wish You Were Here (UK Nimbus)/01 - Shine On You Crazy Diamond (Parts 1-5).flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Pink Floyd - Wish You Were Here (UK Nimbus)/02 - Welcome To The Machine.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Pink Floyd - Wish You Were Here (UK Nimbus)/03 - Have A Cigar.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Pink Floyd - Wish You Were Here (UK Nimbus)/04 - Wish You Were Here.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Pink Floyd - Wish You Were Here (UK Nimbus)/05 - Shine On You Crazy Diamond (Parts 6-9).flac"
+disc_number = 2
+track_number = 3

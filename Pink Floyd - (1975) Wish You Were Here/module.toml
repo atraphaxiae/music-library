@@ -1,0 +1,9 @@
+[metadata]
+artist = "Pink Floyd"
+album = "Wish You Were Here"
+year = "1975"
+
+[children]
+modules = [
+	"(1984) SHVL814"
+]

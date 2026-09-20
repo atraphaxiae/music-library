@@ -17,6 +17,7 @@ clip_mode = "disabled"
 [children]
 modules = [
 	"Art Blakey - (1959) Art Blakey and The Jazz Messengers [Moanin']",
+	"Art Blakey - (1965) Free for All",
 	"John Coltrane - (1965) A Love Supreme",
 	"Lee Morgan - (1964) The Sidewinder",
 	"Lee Morgan - (1966) Search for the New Land",

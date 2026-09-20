@@ -1,0 +1,9 @@
+[metadata]
+artist = "Art Blakey"
+album = "Free for All"
+year = "1965"
+
+[children]
+modules = [
+	"(2019) MMBST-84170"
+]

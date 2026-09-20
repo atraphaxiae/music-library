@@ -1,0 +1,49 @@
+[metadata]
+catalog_number = "MMBST-84170"
+release_year = "2019"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2019"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Free for All"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hammer Head"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Core"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Pensativa"
+
+[children]
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Free for All (MM33)/01 - Free For All.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Free for All (MM33)/02 - Hammer Head.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Free for All (MM33)/03 - The Core.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - Free for All (MM33)/04 - Pensativa.flac"
+disc_number = 2
+track_number = 2

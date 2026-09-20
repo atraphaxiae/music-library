@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "UHQR 0004"
+release_year = "2021"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2022"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "So What"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Freddie Freeloader"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blue in Green"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "All Blues [misprinted as Flamenco Sketches]"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Flamenco Sketches [misprinted as All Blues]"
+
+[children]
+[[children.files]]
+file = "Miles Davis - Kind Of Blue (UHQR)/01 - So What.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Miles Davis - Kind Of Blue (UHQR)/02 - Freddie Freeloader.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Miles Davis - Kind Of Blue (UHQR)/03 - Blue In Green.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Miles Davis - Kind Of Blue (UHQR)/04 - All Blues.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Miles Davis - Kind Of Blue (UHQR)/05 - Flamenco Sketches.flac"
+disc_number = 2
+track_number = 2

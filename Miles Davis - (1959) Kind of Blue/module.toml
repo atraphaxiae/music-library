@@ -1,0 +1,9 @@
+[metadata]
+artist = "Miles Davis"
+album = "Kind of Blue"
+year = "1959"
+
+[children]
+modules = [
+	"(2021) UHQR 0004"
+]

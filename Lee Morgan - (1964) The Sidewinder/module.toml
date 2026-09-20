@@ -1,0 +1,9 @@
+[metadata]
+artist = "Lee Morgan"
+album = "The Sidewinder"
+year = "1964"
+
+[children]
+modules = [
+	"(2020) MMBST-84157"
+]

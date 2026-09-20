@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "MMBST-84157"
+release_year = "2020"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2025"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Sidewinder"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Totem Pole"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Gary's Notebook"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Boy, What a Night"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hocus-Pocus"
+
+[children]
+[[children.files]]
+file = "Lee Morgan - The Sidewinder (Music Matters SRX Reissue)/01 - The Sidewinder.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - The Sidewinder (Music Matters SRX Reissue)/02 - Totem Pole.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - The Sidewinder (Music Matters SRX Reissue)/03 - Gary's Notebook.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - The Sidewinder (Music Matters SRX Reissue)/04 - Boy, What A Night.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - The Sidewinder (Music Matters SRX Reissue)/05 - Hocus-Pocus.flac"
+disc_number = 2
+track_number = 3

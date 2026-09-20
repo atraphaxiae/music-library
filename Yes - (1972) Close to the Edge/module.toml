@@ -1,0 +1,9 @@
+[metadata]
+artist = "Yes"
+album = "Close to the Edge"
+year = "1972"
+
+[children]
+modules = [
+	"(2025) APA 044-45"
+]

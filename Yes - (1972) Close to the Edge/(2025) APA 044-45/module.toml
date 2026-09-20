@@ -1,0 +1,47 @@
+[metadata]
+catalog_number = "APA 044-45"
+release_year = "2025"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2025"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Close to the Edge"
+
+[[discs]]
+tracks = []
+[discs.metadata]
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "And You and I"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Siberian Khatru"
+
+[children]
+[[children.files]]
+file = "Yes - Close To The Edge (AP75 45 RPM)/01 - Close To The Edge.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Yes - Close To The Edge (AP75 45 RPM)/02 - And You And I.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Yes - Close To The Edge (AP75 45 RPM)/03 - Siberian Khatru.flac"
+disc_number = 4
+track_number = 1

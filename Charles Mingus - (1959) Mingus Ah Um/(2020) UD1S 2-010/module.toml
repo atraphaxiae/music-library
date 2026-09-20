@@ -1,0 +1,100 @@
+[metadata]
+catalog_number = "UD1S 2-010"
+release_year = "2020"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Better Git It in Your Soul"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Goodbye Pork Pie Hat"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Boogie Stop Shuffle"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Self-Portrait in Three Colors"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Open Letter to Duke"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Bird Calls"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Fables of Faubus"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Pussy Cat Dues"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Jelly Roll"
+
+[children]
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/01 - Better Git It In Your Soull.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/02 - Goodbye Pork Pie Hat.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/03 - Boogie Stop Shuffle.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/04 - Self-Portrait In Three Colors.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/05 - Open Letter To Duke.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/06 - Bird Calls.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/07 - Fables Of Faubus.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/08 - Pussy Cat Dues.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Charles Mingus - Mingus Ah Um (MFSL One Step)/09 - Jelly Roll.flac"
+disc_number = 4
+track_number = 2

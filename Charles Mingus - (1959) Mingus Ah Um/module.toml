@@ -1,0 +1,9 @@
+[metadata]
+artist = "Charles Mingus"
+album = "Mingus Ah Um"
+year = "1959"
+
+[children]
+modules = [
+	"(2020) UD1S 2-010"
+]

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Wayne Shorter"
+album = "Adam's Apple"
+year = "1967"
+
+[children]
+modules = [
+	"(2019) MMBST-84232"
+]

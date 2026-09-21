@@ -1,0 +1,67 @@
+[metadata]
+catalog_number = "MMBST-84232"
+release_year = "2019"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2022"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Adam's Apple"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "502 Blues (Drinkin' and Drivin')"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "El Gaucho"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Footprints"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Teru"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Chief Crazy Horse"
+
+[children]
+[[children.files]]
+file = "Wayne Shorter - Adam's Apple (MM33 SRX)/01 - Adam's Apple.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Adam's Apple (MM33 SRX)/02 - 502 Blues (Drinkin' And Drivin').flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - Adam's Apple (MM33 SRX)/03 - El Gaucho.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Wayne Shorter - Adam's Apple (MM33 SRX)/04 - Footprints.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Adam's Apple (MM33 SRX)/05 - Teru.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - Adam's Apple (MM33 SRX)/06 - Chief Crazy Horse.flac"
+disc_number = 2
+track_number = 3

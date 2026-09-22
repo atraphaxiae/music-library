@@ -1,0 +1,9 @@
+[metadata]
+artist = "Grachan Moncur III"
+album = "Evolution"
+year = "1964"
+
+[children]
+modules = [
+	"(2010) MMBST-84153"
+]

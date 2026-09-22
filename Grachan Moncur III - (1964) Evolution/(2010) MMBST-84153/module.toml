@@ -1,0 +1,55 @@
+[metadata]
+catalog_number = "MMBST-84153"
+release_year = "2010"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Air Raid"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Evolution"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Coaster"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Monk in Wonderland"
+
+[children]
+[[children.files]]
+file = "Grachan Moncur III - Evolution (MM45)/01 - Air Raid.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Grachan Moncur III - Evolution (MM45)/02 - Evolution.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Grachan Moncur III - Evolution (MM45)/03 - The Coaster.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Grachan Moncur III - Evolution (MM45)/04 - Monk In Wonderland.flac"
+disc_number = 4
+track_number = 1

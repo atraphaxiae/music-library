@@ -1,0 +1,9 @@
+[metadata]
+artist = "Grant Green"
+album = "Idle Moments"
+year = "1965"
+
+[children]
+modules = [
+	"(2014) MMBST-84154"
+]

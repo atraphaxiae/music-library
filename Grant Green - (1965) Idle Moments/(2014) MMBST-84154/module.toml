@@ -1,0 +1,49 @@
+[metadata]
+catalog_number = "MMBST-84154"
+release_year = "2014"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2014"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Idle Moments"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Jean de Fleur"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Django"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Nomad"
+
+[children]
+[[children.files]]
+file = "Grant Green - Idle Moments (MM 33)/01 - Idle Moments.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Idle Moments (MM 33)/02 - Jan De Fleur.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Grant Green - Idle Moments (MM 33)/03 - Django.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Idle Moments (MM 33)/04 - Nomad.flac"
+disc_number = 2
+track_number = 2

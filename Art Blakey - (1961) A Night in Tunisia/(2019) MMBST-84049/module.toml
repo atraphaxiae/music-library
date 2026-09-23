@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "MMBST-84049"
+release_year = "2019"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2022"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "A Night in Tunisia"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sincerely Diana"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "So Tired"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Yama"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Kozo's Waltz"
+
+[children]
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - A Night In Tunisia (SRX)/01 - A Night In Tunisia.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - A Night In Tunisia (SRX)/02 - Sincerely Diana.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - A Night In Tunisia (SRX)/03 - So Tired.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - A Night In Tunisia (SRX)/04 - Yama.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Art Blakey And The Jazz Messengers - A Night In Tunisia (SRX)/05 - Kozo's Waltz.flac"
+disc_number = 2
+track_number = 3

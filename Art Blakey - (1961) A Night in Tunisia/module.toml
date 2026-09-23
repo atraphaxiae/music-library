@@ -1,0 +1,9 @@
+[metadata]
+artist = "Art Blakey"
+album = "A Night in Tunisia"
+year = "1961"
+
+[children]
+modules = [
+	"(2019) MMBST-84049"
+]

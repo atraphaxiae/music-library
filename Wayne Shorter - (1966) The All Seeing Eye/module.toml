@@ -1,0 +1,9 @@
+[metadata]
+artist = "Wayne Shorter"
+album = "The All Seeing Eye"
+year = "1966"
+
+[children]
+modules = [
+	"(2021) B0032880-01"
+]

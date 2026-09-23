@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "B0032880-01"
+release_year = "2021"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2021"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The All Seeing Eye"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Genesis"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Chaos"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Face of the Deep"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mephistopheles"
+
+[children]
+[[children.files]]
+file = "Wayne Shorter - The All Seeing Eye (Tone Poet)/01 - The All Seeing Eye.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - The All Seeing Eye (Tone Poet)/02 - Genesis.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - The All Seeing Eye (Tone Poet)/03 - Chaos.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - The All Seeing Eye (Tone Poet)/04 - Face Of The Deep.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - The All Seeing Eye (Tone Poet)/05 - Mephistopheles.flac"
+disc_number = 2
+track_number = 3

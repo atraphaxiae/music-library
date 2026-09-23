@@ -1,0 +1,9 @@
+[metadata]
+artist = "Joe Henderson"
+album = "Page One"
+year = "1963"
+
+[children]
+modules = [
+	"(2014) MMBST-84140"
+]

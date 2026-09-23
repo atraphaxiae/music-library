@@ -1,0 +1,67 @@
+[metadata]
+catalog_number = "MMBST-84140"
+release_year = "2014"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blue Bossa"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "La Mesha"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Homestretch"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Recorda Me"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Jinrikisha"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Out of the Night"
+
+[children]
+[[children.files]]
+file = "Joe Henderson - Page One (MM33)/01 - Blue Bossa.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Joe Henderson - Page One (MM33)/02 - La Mesha.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Joe Henderson - Page One (MM33)/03 - Homestretch.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Joe Henderson - Page One (MM33)/04 - Recorda Me.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Joe Henderson - Page One (MM33)/05 - Jinrikisha.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Joe Henderson - Page One (MM33)/06 - Out Of The Night.flac"
+disc_number = 2
+track_number = 3

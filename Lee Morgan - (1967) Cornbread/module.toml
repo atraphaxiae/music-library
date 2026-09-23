@@ -1,0 +1,9 @@
+[metadata]
+artist = "Lee Morgan"
+album = "Cornbread"
+year = "1967"
+
+[children]
+modules = [
+	"(2019) B0029911-01"
+]

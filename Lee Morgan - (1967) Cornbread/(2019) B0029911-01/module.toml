@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "B0029911-01"
+release_year = "2019"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Cornbread"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Our Man Higgins"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Ceora"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Ill Wind"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Most Like Lee"
+
+[children]
+[[children.files]]
+file = "Lee Morgan - Cornbread (Tone Poet)/01 - Cornbread.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Cornbread (Tone Poet)/02 - Our Man Higgins.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - Cornbread (Tone Poet)/03 - Ceora.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Cornbread (Tone Poet)/04 - Ill Wind.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - Cornbread (Tone Poet)/05 - Most Like Lee.flac"
+disc_number = 2
+track_number = 3

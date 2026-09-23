@@ -1,0 +1,9 @@
+[metadata]
+artist = "Herbie Hancock"
+album = "Maiden Voyage"
+year = "1965"
+
+[children]
+modules = [
+	"(2015) MMBST-84195"
+]

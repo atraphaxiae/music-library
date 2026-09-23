@@ -1,0 +1,58 @@
+[metadata]
+catalog_number = "MMBST-84195"
+release_year = "2015"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2015"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Maiden Voyage"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Eye of the Hurricane"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Little One"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Survival of the Fittest"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dolphin Dance"
+
+[children]
+[[children.files]]
+file = "Herbie Hancock - Maiden Voyage (Music Matters 33)/01 - Maiden Voyage.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Maiden Voyage (Music Matters 33)/02 - The Eye Of The Hurricane.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Herbie Hancock - Maiden Voyage (Music Matters 33)/03 - Little One.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Herbie Hancock - Maiden Voyage (Music Matters 33)/04 - Survival Of The Fittest.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Maiden Voyage (Music Matters 33)/05 - Dolphin Dance.flac"
+disc_number = 2
+track_number = 2

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Lee Morgan"
+album = "Lee Morgan All-Star Sextet"
+year = "1978"
+
+[children]
+modules = [
+	"(2012) MMBST-83023"
+]

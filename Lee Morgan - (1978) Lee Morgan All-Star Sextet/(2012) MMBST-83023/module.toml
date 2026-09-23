@@ -1,0 +1,73 @@
+[metadata]
+catalog_number = "MMBST-83023"
+release_year = "2012"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Procrastinator"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Party Time"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dear Sir"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Stopstart"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Rio"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Soft Touch"
+
+[children]
+[[children.files]]
+file = "Lee Morgan - The Procrastinator (MM45)/01 - The Procrastinator.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - The Procrastinator (MM45)/02 - Party Time.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - The Procrastinator (MM45)/03 - Dear Sir.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - The Procrastinator (MM45)/04 - Stopstart.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - The Procrastinator (MM45)/05 - Rio.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - The Procrastinator (MM45)/06 - Soft Touch.flac"
+disc_number = 4
+track_number = 1

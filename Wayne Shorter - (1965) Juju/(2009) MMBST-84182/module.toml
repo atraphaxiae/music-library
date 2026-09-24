@@ -1,0 +1,73 @@
+[metadata]
+catalog_number = "MMBST-84182"
+release_year = "2009"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Juju"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Deluge"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "House of Jade"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mahjong"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Yes or No"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Twelve More Bars to Go"
+
+[children]
+[[children.files]]
+file = "Wayne Shorter - (1965) Juju [2009, MMBST-84182, 45 RPM, Stereo, PBTHAL 2020]/1.01 Juju.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - (1965) Juju [2009, MMBST-84182, 45 RPM, Stereo, PBTHAL 2020]/2.01 Deluge.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - (1965) Juju [2009, MMBST-84182, 45 RPM, Stereo, PBTHAL 2020]/2.02 House of Jade.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - (1965) Juju [2009, MMBST-84182, 45 RPM, Stereo, PBTHAL 2020]/3.01 Mahjong.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - (1965) Juju [2009, MMBST-84182, 45 RPM, Stereo, PBTHAL 2020]/4.01 Yes or No.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - (1965) Juju [2009, MMBST-84182, 45 RPM, Stereo, PBTHAL 2020]/4.02 Twelve More Bars to Go.flac"
+disc_number = 4
+track_number = 2

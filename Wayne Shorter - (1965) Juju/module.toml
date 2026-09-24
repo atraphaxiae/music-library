@@ -1,0 +1,9 @@
+[metadata]
+artist = "Wayne Shorter"
+album = "Juju"
+year = "1965"
+
+[children]
+modules = [
+	"(2009) MMBST-84182"
+]

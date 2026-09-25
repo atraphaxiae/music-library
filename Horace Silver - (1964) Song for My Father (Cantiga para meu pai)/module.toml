@@ -1,0 +1,9 @@
+[metadata]
+artist = "Horace Silver"
+album = "Song for My Father (Cantiga para meu pai)"
+year = "1964"
+
+[children]
+modules = [
+	"(2019) MMBST-84185"
+]

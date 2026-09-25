@@ -1,0 +1,9 @@
+[metadata]
+artist = "Eric Dolphy"
+album = "Out to Lunch"
+year = "1964"
+
+[children]
+modules = [
+	"(2015) MMBST-84163"
+]

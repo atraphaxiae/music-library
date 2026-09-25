@@ -1,0 +1,73 @@
+[metadata]
+catalog_number = "MMBST-84227"
+release_year = "2013"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "SteveMTNO"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "A Shade of Jade"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mode for Joe"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Black"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Caribbean Fire Dance"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Granted"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Free Wheelin'"
+
+[children]
+[[children.files]]
+file = "Joe Henderson - (1966) Mode for Joe [2013, MMBST-84227, 45 RPM, Stereo, SteveMTNO]/1.01 A Shade of Jade.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Joe Henderson - (1966) Mode for Joe [2013, MMBST-84227, 45 RPM, Stereo, SteveMTNO]/2.01 Mode for Joe.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Joe Henderson - (1966) Mode for Joe [2013, MMBST-84227, 45 RPM, Stereo, SteveMTNO]/2.02 Black.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Joe Henderson - (1966) Mode for Joe [2013, MMBST-84227, 45 RPM, Stereo, SteveMTNO]/3.01 Caribbean Fire Dance.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Joe Henderson - (1966) Mode for Joe [2013, MMBST-84227, 45 RPM, Stereo, SteveMTNO]/3.02 Granted.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Joe Henderson - (1966) Mode for Joe [2013, MMBST-84227, 45 RPM, Stereo, SteveMTNO]/4.01 Free Wheelin'.flac"
+disc_number = 4
+track_number = 1

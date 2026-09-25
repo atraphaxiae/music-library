@@ -1,0 +1,9 @@
+[metadata]
+artist = "Joe Henderson"
+album = "Mode for Joe"
+year = "1966"
+
+[children]
+modules = [
+	"(2013) MMBST-84227"
+]

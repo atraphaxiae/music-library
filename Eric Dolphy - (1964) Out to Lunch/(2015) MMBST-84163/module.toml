@@ -38,21 +38,21 @@ disc_number = 1
 track_number = 1
 
 [[children.files]]
-file = "Eric Dolphy - (1964) Out to Lunch [2015, MMBST-84163, 33 RPM, Stereo, PBTHAL 2015]/1.02 - Something Sweet, Something Tender.flac"
+file = "Eric Dolphy - (1964) Out to Lunch [2015, MMBST-84163, 33 RPM, Stereo, PBTHAL 2015]/1.02 Something Sweet, Something Tender.flac"
 disc_number = 1
 track_number = 2
 
 [[children.files]]
-file = "Eric Dolphy - (1964) Out to Lunch [2015, MMBST-84163, 33 RPM, Stereo, PBTHAL 2015]/1.03 - Gazzelloni.flac"
+file = "Eric Dolphy - (1964) Out to Lunch [2015, MMBST-84163, 33 RPM, Stereo, PBTHAL 2015]/1.03 Gazzelloni.flac"
 disc_number = 1
 track_number = 3
 
 [[children.files]]
-file = "Eric Dolphy - (1964) Out to Lunch [2015, MMBST-84163, 33 RPM, Stereo, PBTHAL 2015]/2.01 - Out to Lunch.flac"
+file = "Eric Dolphy - (1964) Out to Lunch [2015, MMBST-84163, 33 RPM, Stereo, PBTHAL 2015]/2.01 Out to Lunch.flac"
 disc_number = 2
 track_number = 1
 
 [[children.files]]
-file = "Eric Dolphy - (1964) Out to Lunch [2015, MMBST-84163, 33 RPM, Stereo, PBTHAL 2015]/2.02 - Straight Up and Down.flac"
+file = "Eric Dolphy - (1964) Out to Lunch [2015, MMBST-84163, 33 RPM, Stereo, PBTHAL 2015]/2.02 Straight Up and Down.flac"
 disc_number = 2
 track_number = 2

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Art Blakey"
+album = "Mosaic"
+year = "1961"
+
+[children]
+modules = [
+	"(2013) MMBST-84090"
+]

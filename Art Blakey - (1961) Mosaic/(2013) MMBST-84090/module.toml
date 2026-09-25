@@ -1,0 +1,64 @@
+[metadata]
+catalog_number = "MMBST-84090"
+release_year = "2013"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "SteveMTNO"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mosaic"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Down Under"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Children of the Night"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Arabia"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Crisis"
+
+[children]
+[[children.files]]
+file = "Mosaic [MMBST-84090]/01 - Mosaic.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Mosaic [MMBST-84090]/02 - Down Under.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Mosaic [MMBST-84090]/03 - Children Of The Night.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Mosaic [MMBST-84090]/04 - Arabia.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Mosaic [MMBST-84090]/05 - Crisis.flac"
+disc_number = 4
+track_number = 1

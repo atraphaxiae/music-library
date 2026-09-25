@@ -1,0 +1,9 @@
+[metadata]
+artist = "Herbie Hancock"
+album = "Empyrean Isles"
+year = "1964"
+
+[children]
+modules = [
+	"(2015) MMBST-84175"
+]

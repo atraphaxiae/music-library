@@ -1,0 +1,49 @@
+[metadata]
+catalog_number = "MMBST-84175"
+release_year = "2015"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "One Finger Snap"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Oliloqui Valley"
+
+[[discs]]
+[discs.metadata]
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Cantaloupe Island"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Egg"
+
+[children]
+[[children.files]]
+file = "Herbie Hancock - (1964) Empyrean Isles [2015, MMBST-84175, 33 RPM, Stereo, PBTHAL 2020]/1.01 - One Finger Snap.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - (1964) Empyrean Isles [2015, MMBST-84175, 33 RPM, Stereo, PBTHAL 2020]/1.02 - Oliloqui Valley.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Herbie Hancock - (1964) Empyrean Isles [2015, MMBST-84175, 33 RPM, Stereo, PBTHAL 2020]/2.01 - Cantaloupe Island.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - (1964) Empyrean Isles [2015, MMBST-84175, 33 RPM, Stereo, PBTHAL 2020]/2.02 - The Egg.flac"
+disc_number = 2
+track_number = 2

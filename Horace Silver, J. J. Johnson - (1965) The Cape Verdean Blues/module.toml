@@ -1,0 +1,9 @@
+[metadata]
+artist = "Horace Silver, J. J. Johnson"
+album = "The Cape Verdean Blues"
+year = "1965"
+
+[children]
+modules = [
+	"(2016) MMBST-84220"
+]

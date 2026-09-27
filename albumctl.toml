@@ -12,8 +12,6 @@ album_gain = true
 target_lufs = -18.0
 clip_mode = "disabled"
 
-[metadata]
-
 [children]
 modules = [
 	"Art Blakey - (1959) Art Blakey and The Jazz Messengers [Moanin']",

@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2020"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Blue Bossa"
@@ -21,8 +19,6 @@ title = "La Mesha"
 title = "Homestretch"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Recorda Me"

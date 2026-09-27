@@ -6,29 +6,21 @@ audio_channels = "Stereo"
 provenance = "DeusIrae72"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Inner Urge"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Isotope"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "El Barrio"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "You Know I Care"
@@ -48,18 +40,15 @@ file = "Joe Henderson - (1966) Inner Urge [2010, MMBST-84189, 45 RPM, Stereo, De
 disc_number = 2
 track_number = 1
 
-
 [[children.files]]
 file = "Joe Henderson - (1966) Inner Urge [2010, MMBST-84189, 45 RPM, Stereo, DeusIrae72]/3.01 El Barrio.flac"
 disc_number = 3
 track_number = 1
 
-
 [[children.files]]
 file = "Joe Henderson - (1966) Inner Urge [2010, MMBST-84189, 45 RPM, Stereo, DeusIrae72]/4.01 You Know I Care.flac"
 disc_number = 4
 track_number = 1
-
 
 [[children.files]]
 file = "Joe Henderson - (1966) Inner Urge [2010, MMBST-84189, 45 RPM, Stereo, DeusIrae72]/4.02 Night and Day.flac"

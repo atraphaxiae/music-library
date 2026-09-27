@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2025"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "The Sidewinder"
@@ -17,8 +15,6 @@ title = "The Sidewinder"
 title = "Totem Pole"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Gary's Notebook"

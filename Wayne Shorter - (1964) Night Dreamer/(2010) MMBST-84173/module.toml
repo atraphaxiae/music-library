@@ -6,15 +6,11 @@ audio_channels = "Stereo"
 provenance = "SteveMTNO"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Night Dreamer"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Oriental Folk Song"
@@ -24,15 +20,11 @@ title = "Oriental Folk Song"
 title = "Virgo"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Black Nile"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Charcoal Blues"

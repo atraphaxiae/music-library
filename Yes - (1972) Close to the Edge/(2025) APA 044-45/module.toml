@@ -6,26 +6,19 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2025"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Close to the Edge"
 
 [[discs]]
 tracks = []
-[discs.metadata]
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "And You and I"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Siberian Khatru"

@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2016"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Witch Hunt"
@@ -21,8 +19,6 @@ title = "Fee-Fi-Fo-Fum"
 title = "Dance Cadaverous"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Speak No Evil"

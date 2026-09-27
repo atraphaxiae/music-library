@@ -6,15 +6,11 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2020"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "The Procrastinator"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Party Time"
@@ -24,8 +20,6 @@ title = "Party Time"
 title = "Dear Sir"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Stopstart"
@@ -35,8 +29,6 @@ title = "Stopstart"
 title = "Rio"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Soft Touch"

@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2023"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Black Cow"
@@ -17,15 +15,11 @@ title = "Black Cow"
 title = "Aja"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Deacon Blues"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Peg"
@@ -35,8 +29,6 @@ title = "Peg"
 title = "Home at Last"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "I Got the News"

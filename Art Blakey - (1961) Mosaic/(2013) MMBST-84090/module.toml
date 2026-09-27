@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "SteveMTNO"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Mosaic"
@@ -17,22 +15,16 @@ title = "Mosaic"
 title = "Down Under"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Children of the Night"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Arabia"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Crisis"

@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2016"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Search for the New Land"
@@ -17,8 +15,6 @@ title = "Search for the New Land"
 title = "The Joker"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Mr. Kenyatta"

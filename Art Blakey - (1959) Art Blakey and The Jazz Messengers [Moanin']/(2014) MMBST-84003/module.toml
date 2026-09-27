@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2020"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Moanin'"
@@ -21,8 +19,6 @@ title = "Are You Real"
 title = "Along Came Betty"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "The Drum Thunder (Miniature) Suite"

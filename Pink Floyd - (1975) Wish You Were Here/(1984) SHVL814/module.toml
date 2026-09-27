@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2022"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Shine On You Crazy Diamond (1-5)"
@@ -17,8 +15,6 @@ title = "Shine On You Crazy Diamond (1-5)"
 title = "Welcome to the Machine"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Have a Cigar"

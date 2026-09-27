@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2020"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "The Cape Verdean Blues"
@@ -21,8 +19,6 @@ title = "The African Queen"
 title = "Pretty Eyes"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Nutville"

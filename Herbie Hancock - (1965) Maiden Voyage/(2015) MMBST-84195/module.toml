@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2015"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Maiden Voyage"
@@ -21,8 +19,6 @@ title = "The Eye of the Hurricane"
 title = "Little One"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Survival of the Fittest"

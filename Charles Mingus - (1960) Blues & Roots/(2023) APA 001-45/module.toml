@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2023"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Wednesday Night Prayer Meeting"
@@ -17,15 +15,11 @@ title = "Wednesday Night Prayer Meeting"
 title = "Cryin' Blues"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Moanin"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Tensions"
@@ -35,8 +29,6 @@ title = "Tensions"
 title = "My Jelly Roll Soul"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "E's Flat Ah's Flat Too"

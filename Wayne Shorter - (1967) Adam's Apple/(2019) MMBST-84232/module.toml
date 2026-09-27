@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2022"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Adam's Apple"
@@ -21,8 +19,6 @@ title = "502 Blues (Drinkin' and Drivin')"
 title = "El Gaucho"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Footprints"

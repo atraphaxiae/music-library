@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2014"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Idle Moments"
@@ -17,8 +15,6 @@ title = "Idle Moments"
 title = "Jean de Fleur"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Django"

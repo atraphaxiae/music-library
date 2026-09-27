@@ -6,15 +6,11 @@ audio_channels = "Stereo"
 provenance = "SteveMTNO"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Malaguena"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Candu"
@@ -24,15 +20,11 @@ title = "Candu"
 title = "Tears Come From Heaven"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Basra"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Lazy Afternoon"

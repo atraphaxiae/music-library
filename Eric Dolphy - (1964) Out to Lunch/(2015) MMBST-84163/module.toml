@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2015"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Hat and Beard"
@@ -21,8 +19,6 @@ title = "Something Sweet, Something Tender"
 title = "Gazzelloni"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Out to Lunch"

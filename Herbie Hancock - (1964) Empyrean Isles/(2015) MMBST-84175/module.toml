@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2020"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "One Finger Snap"
@@ -17,8 +15,6 @@ title = "One Finger Snap"
 title = "Oliloqui Valley"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Cantaloupe Island"

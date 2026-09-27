@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2021"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "The All Seeing Eye"
@@ -17,8 +15,6 @@ title = "The All Seeing Eye"
 title = "Genesis"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Chaos"

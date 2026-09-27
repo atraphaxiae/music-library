@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2019"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Free for All"
@@ -17,8 +15,6 @@ title = "Free for All"
 title = "Hammer Head"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "The Core"

@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2019"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Song for My Father"
@@ -21,8 +19,6 @@ title = "The Natives Are Restless Tonight"
 title = "Calcutta Cutie"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Que Pasa"

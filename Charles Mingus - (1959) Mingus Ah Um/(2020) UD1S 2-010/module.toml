@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "2020"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Better Git It in Your Soul"
@@ -17,8 +15,6 @@ title = "Better Git It in Your Soul"
 title = "Goodbye Pork Pie Hat"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Boogie Stop Shuffle"
@@ -32,8 +28,6 @@ title = "Self-Portrait in Three Colors"
 title = "Open Letter to Duke"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Bird Calls"
@@ -43,8 +37,6 @@ title = "Bird Calls"
 title = "Fables of Faubus"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Pussy Cat Dues"

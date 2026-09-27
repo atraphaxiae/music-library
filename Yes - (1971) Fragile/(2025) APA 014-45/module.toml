@@ -6,8 +6,6 @@ audio_channels = "Stereo"
 provenance = "PBTHAL 2025"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Roundabout"
@@ -17,8 +15,6 @@ title = "Roundabout"
 title = "Cans and Brahms (Extracts From Brahms' 4th Symphony in E minor, Third Movement)"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "We Have Heaven"
@@ -28,8 +24,6 @@ title = "We Have Heaven"
 title = "South Side of the Sky"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Five per Cent for Nothing"
@@ -47,8 +41,6 @@ title = "The Fish (Schindleria praematurus)"
 title = "Mood for a Day"
 
 [[discs]]
-[discs.metadata]
-
 [[discs.tracks]]
 [discs.tracks.metadata]
 title = "Heart of the Sunrise"

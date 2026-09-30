@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "B0033488-01"
+release_year = "2022"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2022"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Just a Closer Walk With Thee"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Joshua Fit de Battle ob Jericho"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Nobody Knows the Trouble I've Seen"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Go Down Moses"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sometimes I Feel Like a Motherless Child"
+
+[children]
+[[children.files]]
+file = "Grant Green - Feelin' The Spirit (Tone Poet)/01 - Just A Closer Walk With Thee.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Feelin' The Spirit (Tone Poet)/02 - Joshua Fit De Battle Ob Jericho.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Grant Green - Feelin' The Spirit (Tone Poet)/03 - Nobody Knows The Trouble I've Seen.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Grant Green - Feelin' The Spirit (Tone Poet)/04 - Go Down Moses.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Feelin' The Spirit (Tone Poet)/05 - Sometimes I Feel Like A Motherless Child.flac"
+disc_number = 2
+track_number = 2

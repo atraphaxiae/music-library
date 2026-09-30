@@ -1,0 +1,9 @@
+[metadata]
+artist = "Grant Green"
+album = "Feelin' the Spirit"
+year = "1963"
+
+[children]
+modules = [
+	"(2022) B0033488-01"
+]

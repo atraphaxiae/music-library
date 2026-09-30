@@ -1,0 +1,9 @@
+[metadata]
+artist = "Grant Green"
+album = "Matador"
+year = "1979"
+
+[children]
+modules = [
+	"(2015) MMBST-84442"
+]

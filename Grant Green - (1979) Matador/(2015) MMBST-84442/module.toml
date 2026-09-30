@@ -1,0 +1,45 @@
+[metadata]
+catalog_number = "MMBST-84442"
+release_year = "2015"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2015"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Matador"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "My Favorite Things"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Green Jeans"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Bedouin"
+
+[children]
+[[children.files]]
+file = "Grant Green - Matador (MM 33)/01 - Matador.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Matador (MM 33)/02 - My Favorite Things.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Grant Green - Matador (MM 33)/03 - Green Jeans.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Matador (MM 33)/04 - Bedouin.flac"
+disc_number = 2
+track_number = 2

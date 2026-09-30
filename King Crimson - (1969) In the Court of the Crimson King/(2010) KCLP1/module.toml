@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "KCLP1"
+release_year = "2010"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "uta5erika5 2021"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "21st Century Schizoid Man (Including 'Mirrors')"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I Talk to the Wind"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Epitaph (Including 'March for No Reason' and 'Tomorrow and Tomorrow')"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Moonchild (Including 'The Dream' and 'The Illusion')"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Court of the Crimson King (Including 'The Return of the Fire Witch' and 'The Dance of the Puppets')"
+
+[children]
+[[children.files]]
+file = "King Crimson – In The Court Of The Crimson King-2010 (1969)/A1 21st Century Schizoid Man (Including Mirrors).wv"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "King Crimson – In The Court Of The Crimson King-2010 (1969)/A2 I Talk To The Wind.wv"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "King Crimson – In The Court Of The Crimson King-2010 (1969)/A3 Epitaph.wv"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "King Crimson – In The Court Of The Crimson King-2010 (1969)/B1 Moonchild.wv"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "King Crimson – In The Court Of The Crimson King-2010 (1969)/B2 The Court Of The Crimson King.wv"
+disc_number = 2
+track_number = 2

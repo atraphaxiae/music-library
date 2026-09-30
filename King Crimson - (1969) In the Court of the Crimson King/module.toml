@@ -1,0 +1,9 @@
+[metadata]
+artist = "King Crimson"
+album = "In the Court of the Crimson King"
+year = "1969"
+
+[children]
+modules = [
+	"(2010) KCLP1"
+]

@@ -1,0 +1,9 @@
+[metadata]
+artist = "King Crimson"
+album = "Red"
+year = "1974"
+
+[children]
+modules = [
+	"(2013) KCLP7"
+]

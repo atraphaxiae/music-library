@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "KCLP7"
+release_year = "2013"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "uta5erika5"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Red"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Fallen Angel"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "One More Red Nightmare"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Providence"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Starless"
+
+[children]
+[[children.files]]
+file = "King Crimson – Red-2013 (1974)/A1 Red.wv"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "King Crimson – Red-2013 (1974)/A2 Fallen Angel.wv"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "King Crimson – Red-2013 (1974)/A3 One More Red Nightmare.wv"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "King Crimson – Red-2013 (1974)/B1 Providence.wv"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "King Crimson – Red-2013 (1974)/B2 Starless.wv"
+disc_number = 2
+track_number = 2

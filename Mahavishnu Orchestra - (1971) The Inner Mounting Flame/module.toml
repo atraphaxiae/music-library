@@ -1,0 +1,9 @@
+[metadata]
+artist = "Mahavishnu Orchestra"
+album = "The Inner Mounting Flame"
+year = "1971"
+
+[children]
+modules = [
+	"(2008) PC 31067"
+]

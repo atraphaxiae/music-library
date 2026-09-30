@@ -1,0 +1,81 @@
+[metadata]
+catalog_number = "PC 31067"
+release_year = "2008"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2019"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Meeting of the Spirits"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dawn"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Noonward Race"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "A Lotus on Irish Streams"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Vital Transformation"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Dance of Maya"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "You Know You Know"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Awakening"
+
+[children]
+[[children.files]]
+file = "The Mahavishnu Orchestra With John McLaughlin - The Inner Mounting Flame (1971)(2008)(Germany)[LP][24-96][FLAC]/A1. Meeting Of The Spirits.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "The Mahavishnu Orchestra With John McLaughlin - The Inner Mounting Flame (1971)(2008)(Germany)[LP][24-96][FLAC]/A2. Dawn.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "The Mahavishnu Orchestra With John McLaughlin - The Inner Mounting Flame (1971)(2008)(Germany)[LP][24-96][FLAC]/A3. The Noonward Race.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "The Mahavishnu Orchestra With John McLaughlin - The Inner Mounting Flame (1971)(2008)(Germany)[LP][24-96][FLAC]/A4. A Lotus On Irish Streams.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "The Mahavishnu Orchestra With John McLaughlin - The Inner Mounting Flame (1971)(2008)(Germany)[LP][24-96][FLAC]/B1. Vital Transformation.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "The Mahavishnu Orchestra With John McLaughlin - The Inner Mounting Flame (1971)(2008)(Germany)[LP][24-96][FLAC]/B2. The Dance Of Maya.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "The Mahavishnu Orchestra With John McLaughlin - The Inner Mounting Flame (1971)(2008)(Germany)[LP][24-96][FLAC]/B3. You Know You Know.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "The Mahavishnu Orchestra With John McLaughlin - The Inner Mounting Flame (1971)(2008)(Germany)[LP][24-96][FLAC]/B4. Awakening.flac"
+disc_number = 2
+track_number = 4

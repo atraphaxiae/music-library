@@ -1,0 +1,9 @@
+[metadata]
+artist = "Freddie Hubbard"
+album = "Ready for Freddie"
+year = "1962"
+
+[children]
+modules = [
+	"(2017) MMBST-84085"
+]

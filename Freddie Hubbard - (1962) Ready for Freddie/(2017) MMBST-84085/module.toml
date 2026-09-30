@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "MMBST-84085"
+release_year = "2017"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2017"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Arietis"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Weaver of Dreams"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Marie Antoinette"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Birdlike"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Crisis"
+
+[children]
+[[children.files]]
+file = "Freddie Hubbard - Ready For Freddie (MM33)/01 - Arietis.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Freddie Hubbard - Ready For Freddie (MM33)/02 - Weaver Of Dreams.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Freddie Hubbard - Ready For Freddie (MM33)/03 - Marie Antoinette.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Freddie Hubbard - Ready For Freddie (MM33)/04 - Birdlike.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Freddie Hubbard - Ready For Freddie (MM33)/05 - Crisis.flac"
+disc_number = 2
+track_number = 2

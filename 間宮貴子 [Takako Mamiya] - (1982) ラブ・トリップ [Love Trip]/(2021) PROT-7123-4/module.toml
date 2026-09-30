@@ -1,0 +1,101 @@
+[metadata]
+catalog_number = "PROT-7123-4"
+release_year = "2021"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "Unknown"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Love Trip"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "チャイニーズ・レストラン"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "真夜中のジョーク"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "哀しみは夜の向こう"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "All or Nothing"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "渚でダンス"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "One More Night"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = " モーニング・フライト"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "たそがれは銀箔の..."
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "What a Broken Heart Can Do"
+
+[children]
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/01 - Love Trip.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/02 - チャイニーズ・レストラン.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/03 - 真夜中のジョーク.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/04 - 哀しみは夜の向こう.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/05 - All or Nothing.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/06 - 渚でダンス.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/07 - One More Night.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/08 - モーニング・フライト.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/09 - たそがれは銀箔の….flac"
+disc_number = 4
+track_number = 2
+
+[[children.files]]
+file = "Takako Mamiya - Love Trip [PROT-7123~4]/10 - What a Broken Heart Can Do.flac"
+disc_number = 4
+track_number = 3

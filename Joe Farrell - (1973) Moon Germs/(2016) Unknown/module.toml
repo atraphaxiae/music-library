@@ -1,0 +1,44 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2016"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "e-onkyo"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Great Gorge"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Moon Germs"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Times Lie"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Bass Folk Song"
+
+[children]
+[[children.files]]
+file = "1973. Joe Farrell - Moon Germs (2016) [24-192]/01. Great Gorge.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "1973. Joe Farrell - Moon Germs (2016) [24-192]/02. Moon Germs.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "1973. Joe Farrell - Moon Germs (2016) [24-192]/03. Time's Lie.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "1973. Joe Farrell - Moon Germs (2016) [24-192]/04. Bass Folk Song.flac"
+disc_number = 1
+track_number = 4

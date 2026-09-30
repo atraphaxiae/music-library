@@ -1,0 +1,9 @@
+[metadata]
+artist = "Joe Farrell"
+album = "Moon Germs"
+year = "1973"
+
+[children]
+modules = [
+	"(2016) Unknown"
+]

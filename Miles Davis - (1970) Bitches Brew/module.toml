@@ -1,0 +1,9 @@
+[metadata]
+artist = "Miles Davis"
+album = "Bitches Brew"
+year = "1970"
+
+[children]
+modules = [
+	"(2014) MFSL 2-439"
+]

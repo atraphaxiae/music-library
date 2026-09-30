@@ -1,0 +1,36 @@
+[metadata]
+catalog_number = "SD 1373"
+release_year = "1961"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2017"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Olé"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dahomey Dance"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Aisha"
+
+[children]
+[[children.files]]
+file = "John Coltrane - Ole ' Coltrane/01 - Ole'.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Ole ' Coltrane/02 - Dahomey Dance.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Ole ' Coltrane/03 - Aisha.flac"
+disc_number = 2
+track_number = 2

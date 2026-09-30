@@ -1,0 +1,9 @@
+[metadata]
+artist = "John Coltrane"
+album = "Olé Coltrane"
+year = "1961"
+
+[children]
+modules = [
+	"(1961) SD 1373"
+]

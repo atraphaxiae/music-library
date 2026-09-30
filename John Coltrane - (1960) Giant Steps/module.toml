@@ -1,0 +1,9 @@
+[metadata]
+artist = "John Coltrane"
+album = "Giant Steps"
+year = "1960"
+
+[children]
+modules = [
+	"(2024) APA 010-45"
+]

@@ -1,0 +1,74 @@
+[metadata]
+catalog_number = "APA 010-45"
+release_year = "2024"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "wild_mouse"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Giant Steps"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Cousin Mary"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Countdown"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Spiral"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Syeeda's Song Flute"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Naima"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mr. P. C."
+
+[children]
+[[children.files]]
+file = "John Coltrane - Giant Steps (1959, 2024, Analogue) [LP 24-192]/01 - Giant Steps.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Giant Steps (1959, 2024, Analogue) [LP 24-192]/02 - Cousin Mary.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "John Coltrane - Giant Steps (1959, 2024, Analogue) [LP 24-192]/03 - Countdown.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Giant Steps (1959, 2024, Analogue) [LP 24-192]/04 - Spiral.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "John Coltrane - Giant Steps (1959, 2024, Analogue) [LP 24-192]/05 - Syeeda's Song Flute.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Giant Steps (1959, 2024, Analogue) [LP 24-192]/06 - Naima.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "John Coltrane - Giant Steps (1959, 2024, Analogue) [LP 24-192]/07 - Mr. P.C..flac"
+disc_number = 4
+track_number = 1

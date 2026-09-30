@@ -1,0 +1,9 @@
+[metadata]
+artist = "Freddie Hubbard"
+album = "Breaking Point"
+year = "1964"
+
+[children]
+modules = [
+	"(2022) B0033315-01"
+]

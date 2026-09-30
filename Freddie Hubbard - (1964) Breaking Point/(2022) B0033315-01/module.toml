@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "B0033315-01"
+release_year = "2022"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2022"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Breaking Point"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Far Away"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blue Frenzy"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "D Minor Mint"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mirrors"
+
+[children]
+[[children.files]]
+file = "Freddie Hubbard - Breaking Point (Tone Poet)/01 - Breaking Point.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Freddie Hubbard - Breaking Point (Tone Poet)/02 - Far Away.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Freddie Hubbard - Breaking Point (Tone Poet)/03 - Blue Frenzy.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Freddie Hubbard - Breaking Point (Tone Poet)/04 - D Minor Mint.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Freddie Hubbard - Breaking Point (Tone Poet)/05 - Mirrors.flac"
+disc_number = 2
+track_number = 3

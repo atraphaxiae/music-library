@@ -1,0 +1,9 @@
+[metadata]
+artist = "Michael Jackson"
+album = "Thriller"
+year = "1982"
+
+[children]
+modules = [
+	"(2022) UD1S 1-042"
+]

@@ -1,0 +1,90 @@
+[metadata]
+catalog_number = "UD1S 1-042"
+release_year = "2022"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2022"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wanna Be Startin' Somethin'"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Baby Be Mine"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Girl Is Mine"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Thriller"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Beat It"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Billie Jean"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Human Nature"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "P.Y.T. (Pretty Young Thing)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Lady in My Life"
+
+[children]
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/01 - Wanna Be Startin' Somethin'.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/02 - Baby Be Mine.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/03 - The Girl Is Mine.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/04 - Thriller.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/05 - Beat It.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/06 - Billie Jean.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/07 - Human Nature.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/08 - P.Y.T. (Pretty Young Thing).flac"
+disc_number = 2
+track_number = 4
+
+[[children.files]]
+file = "Michael Jackson - Thriller (MFSL One Step)/09 - The Lady in My Life.flac"
+disc_number = 2
+track_number = 5

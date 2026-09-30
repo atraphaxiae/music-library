@@ -1,0 +1,9 @@
+[metadata]
+artist = "Herbie Hancock"
+album = "Sextant"
+year = "1973"
+
+[children]
+modules = [
+	"(1973) C 32212"
+]

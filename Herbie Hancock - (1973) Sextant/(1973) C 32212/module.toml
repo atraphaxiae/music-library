@@ -1,0 +1,36 @@
+[metadata]
+catalog_number = "C 32212"
+release_year = "1973"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2019"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Rain Dance"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hidden Shadows"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hornets"
+
+[children]
+[[children.files]]
+file = "Herbie Hancock - Sextant/01 - Rain Dance.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Sextant/02 - Hidden Shadows.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Herbie Hancock - Sextant/03 - Hornets.flac"
+disc_number = 2
+track_number = 1

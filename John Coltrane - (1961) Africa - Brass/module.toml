@@ -1,0 +1,9 @@
+[metadata]
+artist = "John Coltrane"
+album = "Africa - Brass"
+year = "1961"
+
+[children]
+modules = [
+	"(2026) Unknown"
+]

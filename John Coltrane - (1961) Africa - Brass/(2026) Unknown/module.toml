@@ -1,0 +1,35 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2026"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Africa"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Greensleeves"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blues Minor"
+
+[children]
+[[children.files]]
+file = "John Coltrane Quartet - Africa Brass (2026) [24-96]/01. Africa.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane Quartet - Africa Brass (2026) [24-96]/02. Greensleeves.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "John Coltrane Quartet - Africa Brass (2026) [24-96]/03. Blues Minor.flac"
+disc_number = 1
+track_number = 3

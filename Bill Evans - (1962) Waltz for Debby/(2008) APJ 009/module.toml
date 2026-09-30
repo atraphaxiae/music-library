@@ -1,0 +1,63 @@
+[metadata]
+catalog_number = "APJ 009"
+release_year = "2008"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "Dr. Robert"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "My Foolish Heart"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Waltz for Debby"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Detour Ahead"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "My Romance"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Some Other Time"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Milestones"
+
+[children]
+[[children.files]]
+file = "Bill Evans Trio - Waltz For Debby (1961) [VINYL] {24-96} {Analogue Productions LP}/01 - My Foolish Heart.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Bill Evans Trio - Waltz For Debby (1961) [VINYL] {24-96} {Analogue Productions LP}/02 - Waltz for Debby.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Bill Evans Trio - Waltz For Debby (1961) [VINYL] {24-96} {Analogue Productions LP}/03 - Detour Ahead.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Bill Evans Trio - Waltz For Debby (1961) [VINYL] {24-96} {Analogue Productions LP}/04 - My Romance.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Bill Evans Trio - Waltz For Debby (1961) [VINYL] {24-96} {Analogue Productions LP}/05 - Some Other Time.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Bill Evans Trio - Waltz For Debby (1961) [VINYL] {24-96} {Analogue Productions LP}/06 - Milestones.flac"
+disc_number = 2
+track_number = 3

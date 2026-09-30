@@ -1,0 +1,9 @@
+[metadata]
+artist = "Bill Evans"
+album = "Waltz for Debby"
+year = "1962"
+
+[children]
+modules = [
+	"(2008) APJ 009"
+]

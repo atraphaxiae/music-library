@@ -1,0 +1,56 @@
+[metadata]
+catalog_number = "AP-81577"
+release_year = "2008"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "SteveMTNO"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blue Train"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Moment's Notice"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Locomotion"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I'm Old Fashioned"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Lazy Bird"
+
+[children]
+[[children.files]]
+file = "John Coltrane - Blue Train 1958/01 Blue Train.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Blue Train 1958/02 Moment's Notice.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Blue Train 1958/03 Locomotion.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Blue Train 1958/04 I'm Old Fashioned.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - Blue Train 1958/05 Lazy Bird.flac"
+disc_number = 4
+track_number = 2

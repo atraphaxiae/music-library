@@ -1,0 +1,9 @@
+[metadata]
+artist = "John Coltrane"
+album = "Blue Train"
+year = "1958"
+
+[children]
+modules = [
+	"(2008) AP-81577"
+]

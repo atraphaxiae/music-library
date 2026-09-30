@@ -1,0 +1,9 @@
+[metadata]
+artist = "Stan Getz & João Gilberto"
+album = "Getz - Gilberto"
+year = "1964"
+
+[children]
+modules = [
+	"(2011) AP-8545"
+]

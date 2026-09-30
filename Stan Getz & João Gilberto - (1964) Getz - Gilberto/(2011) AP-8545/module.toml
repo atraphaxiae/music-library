@@ -1,0 +1,83 @@
+[metadata]
+catalog_number = "AP-8545"
+release_year = "2011"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "uta5erika5 2023"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Girl From Ipanema"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Doralice"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Para machucar meu coração"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Desafinado"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Corcovado"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Só danço samba"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "O grande amor"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Vivo sonhando"
+
+[children]
+[[children.files]]
+file = "Getz & Gilberto-2011 (1964)/A1 The Girl From Ipanema.wv"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Getz & Gilberto-2011 (1964)/A2 Doralice.wv"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Getz & Gilberto-2011 (1964)/B1 P'ra Machucar Meu Coracao.wv"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Getz & Gilberto-2011 (1964)/B2 Desafinado.wv"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Getz & Gilberto-2011 (1964)/C1 Corcovado.wv"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Getz & Gilberto-2011 (1964)/C2 So Danco Samba.wv"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Getz & Gilberto-2011 (1964)/D1 O Grande Amor.wv"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Getz & Gilberto-2011 (1964)/D2 Vivo Sohando.wv"
+disc_number = 4
+track_number = 2

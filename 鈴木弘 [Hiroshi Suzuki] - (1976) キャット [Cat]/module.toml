@@ -1,0 +1,9 @@
+[metadata]
+artist = "鈴木弘 [Hiroshi Suzuki]"
+album = "キャット [Cat]"
+year = "1976"
+
+[children]
+modules = [
+	"(2021) WRJ010LTD"
+]

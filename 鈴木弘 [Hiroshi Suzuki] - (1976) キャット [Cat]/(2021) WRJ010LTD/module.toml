@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "WRJ010LTD"
+release_year = "2021"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "fungus"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "シュリンプ・ダンス (Shrimp Dance)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "クロとシロ (Kuro to shiro)"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "ウォール・トール (Walk Tall)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "キャット (Cat)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "ロマンス (Romance)"
+
+[children]
+[[children.files]]
+file = "Hiroshi Suzuki - Cat (1975, 2021, WRJ) [LP 24-96]/01 - Shrimp Dance.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Hiroshi Suzuki - Cat (1975, 2021, WRJ) [LP 24-96]/02 - Kuro to Shiro.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Hiroshi Suzuki - Cat (1975, 2021, WRJ) [LP 24-96]/03 - Walk Tall.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Hiroshi Suzuki - Cat (1975, 2021, WRJ) [LP 24-96]/04 - Cat.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Hiroshi Suzuki - Cat (1975, 2021, WRJ) [LP 24-96]/05 - Romance.flac"
+disc_number = 2
+track_number = 3

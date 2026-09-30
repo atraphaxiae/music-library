@@ -3,7 +3,7 @@ catalog_number = "UD1S 2-010"
 release_year = "2020"
 media_type = "45 RPM"
 audio_channels = "Stereo"
-provenance = "2020"
+provenance = "PBTHAL 2020"
 
 [[discs]]
 [[discs.tracks]]

@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "B0031299-01"
+release_year = "2020"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Airegin"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "It Ain't Necessarily So"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I Concentrate on You"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Things We Did Last Summer"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Song Is You"
+
+[children]
+[[children.files]]
+file = "Grant Green - Nigeria (Tone Poet)/01 - Airegin.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Nigeria (Tone Poet)/02 - It Ain't Necessarily So.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Grant Green - Nigeria (Tone Poet)/03 - I Concentrate On You.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Nigeria (Tone Poet)/04 - The Things We Did Last Summer.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Grant Green - Nigeria (Tone Poet)/05 - The Song Is You.flac"
+disc_number = 2
+track_number = 3

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Grant Green"
+album = "Nigeria"
+year = "1980"
+
+[children]
+modules = [
+	"(2020) B0031299-01"
+]

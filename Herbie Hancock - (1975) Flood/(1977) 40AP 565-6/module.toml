@@ -1,0 +1,74 @@
+[metadata]
+catalog_number = "40AP 565-6"
+release_year = "1977"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "DeusIrae72"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Introduction & Maiden Voyage"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Actual Proof"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Spank-A-Lee"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Watermelon Man"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Butterfly"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Chameleon"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hang Up Your Hang Ups"
+
+[children]
+[[children.files]]
+file = "Herbie Hancock - Flood 1975/A1 - Maiden Voyage.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Flood 1975/A2 - Actual Proof.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Herbie Hancock - Flood 1975/B1 - Spank-A-Lee.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Flood 1975/B2 - Watermelon Man.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Herbie Hancock - Flood 1975/C1 - Butterfly.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Herbie Hancock - Flood 1975/C2 - Chameleon.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Herbie Hancock - Flood 1975/D - Hang Up Your Hang Ups.flac"
+disc_number = 4
+track_number = 1

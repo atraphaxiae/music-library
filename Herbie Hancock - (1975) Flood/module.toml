@@ -1,0 +1,9 @@
+[metadata]
+artist = "Herbie Hancock"
+album = "Flood"
+year = "1975"
+
+[children]
+modules = [
+	"(1977) 40AP 565-6"
+]

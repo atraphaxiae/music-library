@@ -1,0 +1,90 @@
+[metadata]
+catalog_number = "AFZLP 089"
+release_year = "2016"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2023"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Smooth Operator"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Your Love Is King"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hang On to Your Love"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Frankie's First Affair"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "When Am I Going to Make a Living"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Cherry Pie"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sally"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I Will Be Your Friend"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Why Can't We Live Together"
+
+[children]
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/01 - Smooth Operator.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/02 - Your Love Is King.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/03 - Hang on to Your Love.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/04 - Frankie's First Affair.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/05 - When Am I Going to Make a Living.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/06 - Cherry Pie.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/07 - Sally.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/08 - I Will Be Your Friend.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Sade - Diamond Life (Audio Fidelity)/09 - Why Can't We Live Together.flac"
+disc_number = 2
+track_number = 4

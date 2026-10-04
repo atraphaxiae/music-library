@@ -1,0 +1,9 @@
+[metadata]
+artist = "Sade"
+album = "Diamond Life"
+year = "1984"
+
+[children]
+modules = [
+	"(2016) AFZLP 089"
+]

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Jamiroquai"
+album = "The Return of the Space Cowboy"
+year = "1994"
+
+[children]
+modules = [
+	"(1994) 477813 1"
+]

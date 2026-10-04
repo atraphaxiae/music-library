@@ -1,0 +1,110 @@
+[metadata]
+catalog_number = "477813 1"
+release_year = "1994"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "Teejguy"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Just Another Story"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Stillness in Time"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Half the Man"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Light Years"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Manifest Destiny"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Kids"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mr Moon"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Scam"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Journey to Arnhemland"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Morning Glory"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Space Cowboy"
+
+[children]
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/01 - Just Another Story.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/02 - Stillness In Time.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/03 - Half The Man.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/04 - Light Years.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/05 - Manifest Destiny.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/06 - The Kids.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/07 - Mr Moon.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/08 - Scam.flac"
+disc_number = 3
+track_number = 3
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/09 - Journey To Arnhemland.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/10 - Morning Glory.flac"
+disc_number = 4
+track_number = 2
+
+[[children.files]]
+file = "1994 - The Return of the Space Cowboy [vinyl]/11 - Space Cowboy.flac"
+disc_number = 4
+track_number = 3

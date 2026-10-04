@@ -1,0 +1,9 @@
+[metadata]
+artist = "Freddie Hubbard"
+album = "Red Clay"
+year = "1970"
+
+[children]
+modules = [
+	"(2013) Unknown"
+]

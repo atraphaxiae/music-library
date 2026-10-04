@@ -1,0 +1,9 @@
+[metadata]
+artist = "Return to Forever"
+album = "Light as a Feather"
+year = "1973"
+
+[children]
+modules = [
+	"(1973) PD-5525"
+]

@@ -1,0 +1,63 @@
+[metadata]
+catalog_number = "PD-5525"
+release_year = "1973"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "Tuandrei"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "You're Everything"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Light as a Feather"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Captain Marvel"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "500 Miles High"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Children's Song"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Spain"
+
+[children]
+[[children.files]]
+file = "Chick Corea & Return To Forever - Light As A Feather - 1973,(USA),DSF(tracks),TAV(ART-9+KIV+Tangens)/A1 You're Everything.dsf"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Chick Corea & Return To Forever - Light As A Feather - 1973,(USA),DSF(tracks),TAV(ART-9+KIV+Tangens)/A2 Light As A Feather.dsf"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Chick Corea & Return To Forever - Light As A Feather - 1973,(USA),DSF(tracks),TAV(ART-9+KIV+Tangens)/A3 Captain Marvel.dsf"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Chick Corea & Return To Forever - Light As A Feather - 1973,(USA),DSF(tracks),TAV(ART-9+KIV+Tangens)/B1 500 Miles High.dsf"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Chick Corea & Return To Forever - Light As A Feather - 1973,(USA),DSF(tracks),TAV(ART-9+KIV+Tangens)/B2 Children's Song.dsf"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Chick Corea & Return To Forever - Light As A Feather - 1973,(USA),DSF(tracks),TAV(ART-9+KIV+Tangens)/B3 Spain.dsf"
+disc_number = 2
+track_number = 3

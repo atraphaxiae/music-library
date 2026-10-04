@@ -1,0 +1,62 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2020"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Gold"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Bonfire"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wave"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Light"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Bird"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Purple Lake"
+
+[children]
+[[children.files]]
+file = "wave to earth - wave 0.01 (2020)/1. wave to earth - gold.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "wave to earth - wave 0.01 (2020)/2. wave to earth - bonfire.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "wave to earth - wave 0.01 (2020)/3. wave to earth - wave.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "wave to earth - wave 0.01 (2020)/4. wave to earth - light.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "wave to earth - wave 0.01 (2020)/5. wave to earth - bird.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "wave to earth - wave 0.01 (2020)/6. wave to earth - purple lake.flac"
+disc_number = 1
+track_number = 6

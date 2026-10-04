@@ -1,0 +1,35 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2017"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "King Jazz & Classics"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Straight Life"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mr. Clean"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Here's That Rainy Day"
+
+[children]
+[[children.files]]
+file = "Freddie Hubbard - Straight Life - 1971-2017 (24-192)/01 - Straight Life.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Freddie Hubbard - Straight Life - 1971-2017 (24-192)/02 - Mr. Clean.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Freddie Hubbard - Straight Life - 1971-2017 (24-192)/03 - Here's That Rainy Day.flac"
+disc_number = 1
+track_number = 3

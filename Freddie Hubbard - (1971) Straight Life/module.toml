@@ -1,0 +1,9 @@
+[metadata]
+artist = "Freddie Hubbard"
+album = "Straight Life"
+year = "1971"
+
+[children]
+modules = [
+	"(2017) Unknown"
+]

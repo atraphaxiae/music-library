@@ -1,0 +1,107 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2012"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Waves"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Erotic Cakes"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wonderful Slippery Thing"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Ner Ner"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Fives"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Uncle Skunk"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sevens"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Eric"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Slidey Boy"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Rhode Island Shred"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hangover"
+
+[children]
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/01. Guthrie Govan - Waves.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/02. Guthrie Govan - Erotic Cakes.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/03. Guthrie Govan - Wonderful Slippery Thing.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/04. Guthrie Govan - Ner Ner.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/05. Guthrie Govan - Fives.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/06. Guthrie Govan - Uncle Skunk.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/07. Guthrie Govan - Sevens.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/08. Guthrie Govan - Eric.flac"
+disc_number = 1
+track_number = 8
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/09. Guthrie Govan - Slidey Boy.flac"
+disc_number = 1
+track_number = 9
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/10. Guthrie Govan - Rhode Island Shred.flac"
+disc_number = 1
+track_number = 10
+
+[[children.files]]
+file = "Guthrie Govan - Erotic Cakes (2012)/11. Guthrie Govan - Hangover.flac"
+disc_number = 1
+track_number = 11

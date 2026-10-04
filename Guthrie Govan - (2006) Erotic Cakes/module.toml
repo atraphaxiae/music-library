@@ -1,0 +1,9 @@
+[metadata]
+artist = "Guthrie Govan"
+album = "Erotic Cakes"
+year = "2006"
+
+[children]
+modules = [
+	"(2012) Unknown"
+]

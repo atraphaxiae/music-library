@@ -1,0 +1,9 @@
+[metadata]
+artist = "Nucleus"
+album = "Alleycat"
+year = "1975"
+
+[children]
+modules = [
+	"(2022) BEWITH105LP"
+]

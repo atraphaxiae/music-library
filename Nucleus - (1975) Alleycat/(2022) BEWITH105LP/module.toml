@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "BEWITH105LP"
+release_year = "2022"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "A Needle Time"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Phaideaux Corner"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Alleycat"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Splat"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "You Can't Be Sure"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Nosegay"
+
+[children]
+[[children.files]]
+file = "Nucleus - 1975 - Alleycat (2022 Be With Records BEWITH105) [LP 24-88.2 FLAC]/A1 Phaideaux Corner.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Nucleus - 1975 - Alleycat (2022 Be With Records BEWITH105) [LP 24-88.2 FLAC]/A2 Alleycat.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Nucleus - 1975 - Alleycat (2022 Be With Records BEWITH105) [LP 24-88.2 FLAC]/B1 Splat.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Nucleus - 1975 - Alleycat (2022 Be With Records BEWITH105) [LP 24-88.2 FLAC]/B2 You Can't Be Sure.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Nucleus - 1975 - Alleycat (2022 Be With Records BEWITH105) [LP 24-88.2 FLAC]/B3 Nosegay.flac"
+disc_number = 2
+track_number = 3

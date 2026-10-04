@@ -1,0 +1,9 @@
+[metadata]
+artist = "Xanthochroid"
+album = "Of Erthe and Axen: Act I"
+year = "2017"
+
+[children]
+modules = [
+	"(2017) Unknown"
+]

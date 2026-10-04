@@ -1,0 +1,80 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2017"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Open the Gates, O Forest Keeper"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "To Lost and Ancient Gardens"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "To Higher Climes Where Few Might Stand"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "To Souls Distant and Dreaming"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "In Deep and Wooded Forests of My Youth"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Sound of Hunger Rises"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Sound of a Glinting Blade"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Sound Which Has No Name"
+
+[children]
+[[children.files]]
+file = "Xanthochroid - Of Erthe and Axen_ Act I (2017)/1. Xanthochroid - Open the Gates O Forest Keeper.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Xanthochroid - Of Erthe and Axen_ Act I (2017)/2. Xanthochroid - To Lost and Ancient Gardens.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Xanthochroid - Of Erthe and Axen_ Act I (2017)/3. Xanthochroid - To Higher Climes Where Few Might Stand.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Xanthochroid - Of Erthe and Axen_ Act I (2017)/4. Xanthochroid - To Souls Distant and Dreaming.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Xanthochroid - Of Erthe and Axen_ Act I (2017)/5. Xanthochroid - In Deep and Wooded Forests of My Youth.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Xanthochroid - Of Erthe and Axen_ Act I (2017)/6. Xanthochroid - The Sound of Hunger Rises.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Xanthochroid - Of Erthe and Axen_ Act I (2017)/7. Xanthochroid - The Sound of a Glinting Blade.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "Xanthochroid - Of Erthe and Axen_ Act I (2017)/8. Xanthochroid - The Sound Which Has No Name.flac"
+disc_number = 1
+track_number = 8

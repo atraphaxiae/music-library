@@ -1,0 +1,65 @@
+[metadata]
+catalog_number = "MM-LT-988"
+release_year = "2011"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2023"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Lost"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Angola"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Big Push"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Soothsayer"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Lady Day"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Valse triste"
+
+[children]
+[[children.files]]
+file = "Wayne Shorter - The Soothsayer (MM45)/01 - Lost.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - The Soothsayer (MM45)/02 - Angola.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - The Soothsayer (MM45)/03 - The Big Push.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - The Soothsayer (MM45)/04 - The Soothsayer.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - The Soothsayer (MM45)/05 - Lady Day.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - The Soothsayer (MM45)/06 - Valse Triste.flac"
+disc_number = 4
+track_number = 2

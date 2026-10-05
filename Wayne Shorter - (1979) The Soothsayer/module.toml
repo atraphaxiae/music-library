@@ -1,0 +1,9 @@
+[metadata]
+artist = "Wayne Shorter"
+album = "The Soothsayer"
+year = "1979"
+
+[children]
+modules = [
+	"(2011) MM-LT-988"
+]

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Lee Morgan"
+album = "Infinity"
+year = "1981"
+
+[children]
+modules = [
+	"(2023) B0034578-01"
+]

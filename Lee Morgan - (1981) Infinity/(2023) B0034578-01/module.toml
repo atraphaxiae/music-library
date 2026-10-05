@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "B0034578-01"
+release_year = "2023"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2023"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Infinity"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Miss Nettie B."
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Growing Pains"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Portrait of Doll"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Zip Code"
+
+[children]
+[[children.files]]
+file = "Lee Morgan - Infinity (Tone Poet)/01 - Infinity.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Infinity (Tone Poet)/02 - Miss Nettie B..flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - Infinity (Tone Poet)/03 - Growing Pains.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Infinity (Tone Poet)/04 - Portrait Of Doll.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - Infinity (Tone Poet)/05 - Zip Code.flac"
+disc_number = 2
+track_number = 3

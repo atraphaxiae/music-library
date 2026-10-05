@@ -1,0 +1,89 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2011"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Boing!… I'm in the Back"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sweaty Knockers"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Bad Asteroid"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Get It Like That"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Furtive Jack"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I Want a Parrot"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "See You Next Tuesday"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blues Fuckers"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Flatlands"
+
+[children]
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/1. The Aristocrats - Boing!... I'm In the Back.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/2. The Aristocrats - Sweaty Knockers.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/3. The Aristocrats - Bad Asteroid.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/4. The Aristocrats - Get It Like That.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/5. The Aristocrats - Furtive Jack.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/6. The Aristocrats - I Want A Parrot.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/7. The Aristocrats - See You Next Tuesday.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/8. The Aristocrats - Blues Fuckers.flac"
+disc_number = 1
+track_number = 8
+
+[[children.files]]
+file = "The Aristocrats - The Aristocrats (2011)/9. The Aristocrats - Flatlands.flac"
+disc_number = 1
+track_number = 9

@@ -1,0 +1,9 @@
+[metadata]
+artist = "The Aristocrats"
+album = "The Aristocrats"
+year = "2011"
+
+[children]
+modules = [
+	"(2011) Unknown"
+]

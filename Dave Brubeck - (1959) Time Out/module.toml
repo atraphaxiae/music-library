@@ -1,0 +1,9 @@
+[metadata]
+artist = "Dave Brubeck"
+album = "Time Out"
+year = "1959"
+
+[children]
+modules = [
+	"(2015) APJ 8192"
+]

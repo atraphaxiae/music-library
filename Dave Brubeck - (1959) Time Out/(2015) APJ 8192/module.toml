@@ -1,0 +1,72 @@
+[metadata]
+catalog_number = "APJ 8192"
+release_year = "2015"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "thezabs"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blue Rondo a la Turk"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Strange Meadow Lark"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Take Five"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Three to Get Ready"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Kathy's Waltz"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Everybody's Jumpin'"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Pick Up Sticks"
+
+[children]
+[[children.files]]
+file = "Dave Brubeck - Time Out (1959, 2015, Analogue) [LP 24-192]/01 - Blue Rondo a la Turk.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Dave Brubeck - Time Out (1959, 2015, Analogue) [LP 24-192]/02 - Strange Meadow Lark.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Dave Brubeck - Time Out (1959, 2015, Analogue) [LP 24-192]/03 - Take Five.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Dave Brubeck - Time Out (1959, 2015, Analogue) [LP 24-192]/04 - Three to Get Ready.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Dave Brubeck - Time Out (1959, 2015, Analogue) [LP 24-192]/05 - Kathy's Waltz.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Dave Brubeck - Time Out (1959, 2015, Analogue) [LP 24-192]/06 - Everybody's Jumpin'.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Dave Brubeck - Time Out (1959, 2015, Analogue) [LP 24-192]/07 - Pick Up Sticks.flac"
+disc_number = 2
+track_number = 4

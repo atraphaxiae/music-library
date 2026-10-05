@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "B0029357-01"
+release_year = "2019"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2021"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Etcetera"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Penelope"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Toy Tune"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Barracudas"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Indian Song"
+
+[children]
+[[children.files]]
+file = "Wayne Shorter - Etcetera (Tone Poet)/01 - Etcetera.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Etcetera (Tone Poet)/02 - Penelope.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Wayne Shorter - Etcetera (Tone Poet)/03 - Toy Tune.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Wayne Shorter - Etcetera (Tone Poet)/04 - Barracudas (General Assembly).flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Wayne Shorter - Etcetera (Tone Poet)/05 - Indian Song.flac"
+disc_number = 2
+track_number = 2

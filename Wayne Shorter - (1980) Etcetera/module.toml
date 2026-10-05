@@ -1,0 +1,9 @@
+[metadata]
+artist = "Wayne Shorter"
+album = "Etcetera"
+year = "1980"
+
+[children]
+modules = [
+	"(2019) B0029357-01"
+]

@@ -1,0 +1,47 @@
+[metadata]
+catalog_number = "MMBST-84137"
+release_year = "2012"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2023"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Saturday and Sunday"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Frankenstein"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blue Rondo"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Ghost Town"
+
+[children]
+[[children.files]]
+file = "Jackie Mclean - One Step Beyond (MM45)/01 - Saturday And Sunday.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Jackie Mclean - One Step Beyond (MM45)/02 - Frankenstein.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Jackie Mclean - One Step Beyond (MM45)/03 - Blue Rondo.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Jackie Mclean - One Step Beyond (MM45)/04 - Ghost Town.flac"
+disc_number = 4
+track_number = 1

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Jackie McLean"
+album = "One Step Beyond"
+year = "1964"
+
+[children]
+modules = [
+	"(2012) MMBST-84137"
+]

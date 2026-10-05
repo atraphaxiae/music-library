@@ -1,0 +1,9 @@
+[metadata]
+artist = "Lee Morgan"
+album = "Tom Cat"
+year = "1980"
+
+[children]
+modules = [
+	"(2008) MM-LT-1058"
+]

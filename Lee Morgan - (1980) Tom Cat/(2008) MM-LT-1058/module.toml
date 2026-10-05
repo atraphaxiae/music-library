@@ -1,0 +1,56 @@
+[metadata]
+catalog_number = "MM-LT-1058"
+release_year = "2008"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Tom Cat"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Exotique"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Twice Around"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Twilight Mist"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Rigormortis"
+
+[children]
+[[children.files]]
+file = "Lee Morgan - Tom Cat (MM45)/01 - Tom Cat.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Tom Cat (MM45)/02 - Exotique.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Tom Cat (MM45)/03 - Twice Around.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Tom Cat (MM45)/04 - Twilight Mist.flac"
+disc_number = 4
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - Tom Cat (MM45)/05 - Rigormortis.flac"
+disc_number = 4
+track_number = 2

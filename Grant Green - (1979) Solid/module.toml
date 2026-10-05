@@ -1,0 +1,9 @@
+[metadata]
+artist = "Grant Green"
+album = "Solid"
+year = "1979"
+
+[children]
+modules = [
+	"(2019) MM-LT-990"
+]

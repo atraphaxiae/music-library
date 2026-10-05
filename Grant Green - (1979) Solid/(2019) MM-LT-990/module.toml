@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "MM-LT-990"
+release_year = "2019"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2019"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Minor League"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Ezz-Thetic"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Grant's Tune"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Solid"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Kicker"
+
+[children]
+[[children.files]]
+file = "Grant Green - Solid (MM33)/01 - Minor League.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Solid (MM33)/02 - Ezz-Thetic.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Grant Green - Solid (MM33)/03 - Grant's Tune.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Grant Green - Solid (MM33)/04 - Solid.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Grant Green - Solid (MM33)/05 - The Kicker.flac"
+disc_number = 2
+track_number = 3

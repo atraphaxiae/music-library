@@ -1,0 +1,9 @@
+[metadata]
+artist = "Lee Morgan"
+album = "The Cooker"
+year = "1958"
+
+[children]
+modules = [
+	"(2020) BST 81578"
+]

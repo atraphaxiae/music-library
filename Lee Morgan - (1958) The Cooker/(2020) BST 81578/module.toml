@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "BST 81578"
+release_year = "2020"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2020-09"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "A Night in Tunisia"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Heavy Dipper"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Just One of Those Things"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Lover Man"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "New-Ma"
+
+[children]
+[[children.files]]
+file = "Lee Morgan - The Cooker (Tone Poet)/01 - A Night In Tunisia.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - The Cooker (Tone Poet)/02 - Heavy Dipper.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - The Cooker (Tone Poet)/03 - Just One Of Those Things.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Lee Morgan - The Cooker (Tone Poet)/04 - Lover Man.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Lee Morgan - The Cooker (Tone Poet)/05 - New-Ma.flac"
+disc_number = 2
+track_number = 3

@@ -1,0 +1,9 @@
+[metadata]
+artist = "Sun Ra"
+album = "Lanquidity"
+year = "1978"
+
+[children]
+modules = [
+	"(1978) PJ666"
+]

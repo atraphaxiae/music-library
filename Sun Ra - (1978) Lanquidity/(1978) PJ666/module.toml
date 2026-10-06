@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "PJ666"
+release_year = "1978"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2012"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Lanquidity"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Where Pathways Meet"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "That's How I Feel"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Twin Stars of Thence"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "There Are Other Worlds (They Have Not Told You Of)"
+
+[children]
+[[children.files]]
+file = "Sun Ra - Lanquidity/01 - Lanquidity.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Sun Ra - Lanquidity/02 - Where Pathways Meet.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Sun Ra - Lanquidity/03 - That's How I Feel.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Sun Ra - Lanquidity/04 - Twin Stars Of Thence.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Sun Ra - Lanquidity/05 - There Are Other Worlds (They Have Not Told You Of).flac"
+disc_number = 2
+track_number = 2

@@ -1,0 +1,62 @@
+[metadata]
+catalog_number = "None"
+release_year = "2023"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blackstone Legacy"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Think on Me"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Lost and Found"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "New World"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Boo-Ann's Grand"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "A Deed for Dolphy"
+
+[children]
+[[children.files]]
+file = "Woody Shaw - Blackstone Legacy (1971) [24-192]/01 - Blackstone Legacy.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Woody Shaw - Blackstone Legacy (1971) [24-192]/02 - Think On Me.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Woody Shaw - Blackstone Legacy (1971) [24-192]/03 - Lost And Found.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Woody Shaw - Blackstone Legacy (1971) [24-192]/04 - New World.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Woody Shaw - Blackstone Legacy (1971) [24-192]/05 - Boo-Ann's Grand.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Woody Shaw - Blackstone Legacy (1971) [24-192]/06 - A Deed For Dolphy.flac"
+disc_number = 1
+track_number = 6

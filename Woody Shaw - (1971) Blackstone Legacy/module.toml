@@ -1,0 +1,9 @@
+[metadata]
+artist = "Woody Shaw"
+album = "Blackstone Legacy"
+year = "1971"
+
+[children]
+modules = [
+	"(2023) None"
+]

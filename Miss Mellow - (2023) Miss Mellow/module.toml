@@ -1,0 +1,9 @@
+[metadata]
+artist = "Miss Mellow"
+album = "Miss Mellow"
+year = "2023"
+
+[children]
+modules = [
+	"(2023) None"
+]

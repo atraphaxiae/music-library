@@ -1,0 +1,62 @@
+[metadata]
+catalog_number = "None"
+release_year = "2023"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Chopsticks"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Who Abides?"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Walk the Universe"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Miss Mellow"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Update"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Peace in My Mind"
+
+[children]
+[[children.files]]
+file = "Miss Mellow/1. Chopsticks.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Miss Mellow/2. Who Abides.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Miss Mellow/3. Walk The Universe.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Miss Mellow/4. Miss Mellow.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Miss Mellow/5. Update.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Miss Mellow/6. Peace In My Mind.flac"
+disc_number = 1
+track_number = 6

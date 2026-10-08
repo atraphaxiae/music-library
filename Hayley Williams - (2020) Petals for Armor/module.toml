@@ -1,0 +1,9 @@
+[metadata]
+artist = "Hayley Williams"
+album = "Petals for Armor"
+year = "2020"
+
+[children]
+modules = [
+	"(2020) Unknown"
+]

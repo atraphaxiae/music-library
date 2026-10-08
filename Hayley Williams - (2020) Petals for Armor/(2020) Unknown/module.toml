@@ -1,0 +1,145 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2020"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Simmer"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Leave It Alone"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Cinnamon"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Creepin'"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sudden Desire"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dead Horse"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "My Friend"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Over Yet"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Roses - Lotus - Violet - Iris"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Why We Ever"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Pure Love"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Taken"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sugar on the Rim"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Watch Me While I Bloom"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Crystal Clear"
+
+[children]
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/01. Hayley Williams - Simmer.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/02. Hayley Williams - Leave It Alone.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/03. Hayley Williams - Cinnamon.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/04. Hayley Williams - Creepin'.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/05. Hayley Williams - Sudden Desire.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/06. Hayley Williams - Dead Horse.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/07. Hayley Williams - My Friend.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/08. Hayley Williams - Over Yet.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/09. Hayley Williams - Roses-Lotus-Violet-Iris.flac"
+disc_number = 2
+track_number = 4
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/10. Hayley Williams - Why We Ever.flac"
+disc_number = 2
+track_number = 5
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/11. Hayley Williams - Pure Love.flac"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/12. Hayley Williams - Taken.flac"
+disc_number = 3
+track_number = 2
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/13. Hayley Williams - Sugar On The Rim.flac"
+disc_number = 3
+track_number = 3
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/14. Hayley Williams - Watch Me While I Bloom.flac"
+disc_number = 3
+track_number = 4
+
+[[children.files]]
+file = "Hayley Williams - Petals For Armor (2020)/15. Hayley Williams - Crystal Clear.flac"
+disc_number = 3
+track_number = 5

@@ -1,0 +1,80 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2005"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Jaws of Life"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Glasgow Kiss"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Tunnel Vision"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wishful Thinking"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Damage Control"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Curve"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Lost Without You"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Animate-Inanimate"
+
+[children]
+[[children.files]]
+file = "Suspended Animation/1. Jaws Of Life.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Suspended Animation/2. Glasgow Kiss.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Suspended Animation/3. Tunnel Vision.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Suspended Animation/4. Wishful Thinking.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Suspended Animation/5. Damage Control.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Suspended Animation/6. Curve.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Suspended Animation/7. Lost Without You.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "Suspended Animation/8. Animate-Inanimate.flac"
+disc_number = 1
+track_number = 8

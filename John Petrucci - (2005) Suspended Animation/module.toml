@@ -1,0 +1,9 @@
+[metadata]
+artist = "John Petrucci"
+album = "Suspended Animation"
+year = "2005"
+
+[children]
+modules = [
+	"(2005) Unknown",
+]

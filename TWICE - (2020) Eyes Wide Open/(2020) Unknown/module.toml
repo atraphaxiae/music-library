@@ -1,0 +1,125 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2020"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I Can't Stop Me"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hell in Heaven"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Up No More"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Do What We Like"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Bring It Back"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Believer"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Queen"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Go Hard"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Shot Clock"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Handle It"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Depend on You"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Say Something"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Behind the Mask"
+
+[children]
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/01. Twice - I CAN'T STOP ME.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/02. Twice - HELL IN HEAVEN.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/03. Twice - UP NO MORE.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/04. Twice - DO WHAT WE LIKE.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/05. Twice - BRING IT BACK.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/06. Twice - BELIEVER.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/07. Twice - QUEEN.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/08. Twice - GO HARD.flac"
+disc_number = 1
+track_number = 8
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/09. Twice - SHOT CLOCK.flac"
+disc_number = 1
+track_number = 9
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/10. Twice - HANDLE IT.flac"
+disc_number = 1
+track_number = 10
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/11. Twice - DEPEND ON YOU.flac"
+disc_number = 1
+track_number = 11
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/12. Twice - SAY SOMETHING.flac"
+disc_number = 1
+track_number = 12
+
+[[children.files]]
+file = "Twice - Eyes Wide Open (2020)/13. Twice - BEHIND THE MASK.flac"
+disc_number = 1
+track_number = 13

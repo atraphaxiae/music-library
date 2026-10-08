@@ -1,0 +1,9 @@
+[metadata]
+artist = "TWICE"
+album = "Eyes Wide Open"
+year = "2020"
+
+[children]
+modules = [
+	"(2020) Unknown"
+]

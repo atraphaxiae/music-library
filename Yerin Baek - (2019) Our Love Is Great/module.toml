@@ -1,0 +1,9 @@
+[metadata]
+artist = "Yerin Baek"
+album = "Our Love Is Great"
+year = "2019"
+
+[children]
+modules = [
+	"(2019) Unknown"
+]

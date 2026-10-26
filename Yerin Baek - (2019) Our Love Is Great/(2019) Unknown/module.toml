@@ -1,0 +1,71 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2019"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "야간비행 (魔女の花)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "그건 아마 우리의 잘못은 아닐거야"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dear My Blue"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Our Love Is Great"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "내가 날 모르는 것처럼"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "지켜줄게"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "내가 날 모르는 것처럼 (2019 Ver.)"
+
+[children]
+[[children.files]]
+file = "Our Love is Great/1. Merry And The Witch’s Flower.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Our Love is Great/2. Maybe It’s Not Our Fault.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Our Love is Great/3. Dear my blue.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Our Love is Great/4. Our love is great.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Our Love is Great/5. I Don’t Know.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Our Love is Great/6. See You Again.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Our Love is Great/7. I Don’t Know (2019 Version).flac"
+disc_number = 1
+track_number = 7

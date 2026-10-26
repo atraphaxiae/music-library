@@ -1,0 +1,171 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2019"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Tidal"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Intro"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Rest"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Popo (How Deep Is Our Love?)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "can i b u"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Meant to Be"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mr.Gloomy"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "lovelovelove"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Bunny"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "0310"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Berlin"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Datoom"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Not a Girl"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Newsong2"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Amy"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "True Lover"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Point"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Square (2017)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "London"
+
+[children]
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/01 - Yerin Baek - Intro.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/02 - Yerin Baek - Rest.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/03 - Yerin Baek - Popo (How deep is our love_).flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/04 - Yerin Baek - Can I B U.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/05 - Yerin Baek - Meant To Be.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/06 - Yerin Baek - Mr.Gloomy.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/07 - Yerin Baek - Lovelovelove.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/08 - Yerin Baek - Bunny.flac"
+disc_number = 1
+track_number = 8
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 1/09 - Yerin Baek - 0310.flac"
+disc_number = 1
+track_number = 9
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/01 - Yerin Baek - Berlin.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/02 - Yerin Baek - Datoom.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/03 - Yerin Baek - Not a Girl.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/04 - Yerin Baek - Newsong2.flac"
+disc_number = 2
+track_number = 4
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/05 - Yerin Baek - Amy.flac"
+disc_number = 2
+track_number = 5
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/06 - Yerin Baek - True Lover.flac"
+disc_number = 2
+track_number = 6
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/07 - Yerin Baek - Point (feat. Loopy).flac"
+disc_number = 2
+track_number = 7
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/08 - Yerin Baek - Square (2017).flac"
+disc_number = 2
+track_number = 8
+
+[[children.files]]
+file = "Every letter I sent you. - Yerin Baek/Disc 2/09 - Yerin Baek - London.flac"
+disc_number = 2
+track_number = 9

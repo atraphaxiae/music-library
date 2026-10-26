@@ -1,0 +1,9 @@
+[metadata]
+artist = "Yerin Baek"
+album = "Every Letter I Sent You."
+year = "2019"
+
+[children]
+modules = [
+	"(2019) Unknown"
+]

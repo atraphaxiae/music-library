@@ -1,0 +1,9 @@
+[metadata]
+artist = "Wave to Earth"
+album = "play with earth! 0.03"
+year = "2024"
+
+[children]
+modules = [
+	"(2024) Unknown"
+]

@@ -1,0 +1,71 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2024"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Are You Bored?"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Play With Earth!"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Annie."
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Pueblo (Remastered 2024)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Beck."
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Slow Dive"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Holyland"
+
+[children]
+[[children.files]]
+file = "play with earth! 0.03 [E]/1. are you bored.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "play with earth! 0.03 [E]/2. play with earth!.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "play with earth! 0.03 [E]/3. annie..flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "play with earth! 0.03 [E]/4. pueblo (remastered 2024).flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "play with earth! 0.03 [E]/5. beck..flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "play with earth! 0.03 [E]/6. slow dive.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "play with earth! 0.03 [E]/7. holyland.flac"
+disc_number = 1
+track_number = 7

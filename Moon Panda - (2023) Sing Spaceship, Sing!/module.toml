@@ -1,0 +1,9 @@
+[metadata]
+artist = "Moon Panda"
+album = "Sing Spaceship, Sing!"
+year = "2023"
+
+[children]
+modules = [
+	"(2023) None"
+]

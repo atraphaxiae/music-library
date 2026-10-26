@@ -1,0 +1,116 @@
+[metadata]
+catalog_number = "None"
+release_year = "2023"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Come Outside"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Tangerine Light"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Summerbrain"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Current"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Machina Sky"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Starfruit"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Pool Day"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Hummingbird"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Feel This Way"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mixed Up"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Rain Mouth"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dance"
+
+[children]
+[[children.files]]
+file = "Sing Spaceship, Sing!/01. Come Outside.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/02. Tangerine Light.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/03. SummerBrain.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/04. Current.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/05. Machina Sky.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/06. Starfruit.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/07. Pool Day.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/08. Hummingbird.flac"
+disc_number = 1
+track_number = 8
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/09. Feel This Sway.flac"
+disc_number = 1
+track_number = 9
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/10. Mixed Up.flac"
+disc_number = 1
+track_number = 10
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/11. Rain Mouth.flac"
+disc_number = 1
+track_number = 11
+
+[[children.files]]
+file = "Sing Spaceship, Sing!/12. Dance.flac"
+disc_number = 1
+track_number = 12

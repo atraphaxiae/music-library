@@ -1,0 +1,9 @@
+[metadata]
+artist = "Gino Vannelli"
+album = "Brother to Brother"
+year = "1978"
+
+[children]
+modules = [
+	"(2020) Unknown"
+]

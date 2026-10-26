@@ -1,0 +1,89 @@
+[metadata]
+catalog_number = "Unknown"
+release_year = "2020"
+media_type = "Digital"
+audio_channels = "Stereo"
+provenance = "Qobuz"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Appaloosa"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The River Must Flow"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I Just Wanna Stop"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Love and Emotion"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Feel Like Flying"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Brother to Brother"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wheels of Life"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Evil Eye"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "People I Belong To"
+
+[children]
+[[children.files]]
+file = "Brother To Brother/1. Appaloosa (Album Version).flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Brother To Brother/2. The River Must Flow.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Brother To Brother/3. I Just Wanna Stop.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Brother To Brother/4. Love & Emotion (Album Version).flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Brother To Brother/5. Feel Like Flying.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Brother To Brother/6. Brother To Brother (Album Version).flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Brother To Brother/7. Wheels Of Life.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "Brother To Brother/8. The Evil Eye (Album Version).flac"
+disc_number = 1
+track_number = 8
+
+[[children.files]]
+file = "Brother To Brother/9. People I Belong To (Album Version).flac"
+disc_number = 1
+track_number = 9

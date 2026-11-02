@@ -1,0 +1,9 @@
+[metadata]
+artist = "Fleetwood Mac"
+album = "Rumours"
+year = "1977"
+
+[children]
+modules = [
+	"(2020) 517787-1"
+]

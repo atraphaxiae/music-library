@@ -1,0 +1,108 @@
+[metadata]
+catalog_number = "517787-1"
+release_year = "1977"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "PrivateUnicorn"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Second Hand News"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dreams"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Never Going Back Again"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Don't Stop"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Go Your Own Way"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Songbird"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "The Chain"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "You Make Loving Fun"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "I Don't Want to Know"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Oh Daddy"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Gold Dust Woman"
+
+[children]
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/01 - Second Hand News.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/02 - Dreams.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/03 - Never Going Back Again.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/04 - Don't Stop.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/05 - Go Your Own Way.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/06 - Songbird.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/07 - The Chain.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/08 - You Make Loving Fun.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/09 - I Don't Want To Know.flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/10 - Oh Daddy.flac"
+disc_number = 2
+track_number = 4
+
+[[children.files]]
+file = "Fleetwood Mac - Rumours (1977) (2020 - 45 RPM Pallas)/11 - Gold Dust Woman.flac"
+disc_number = 2
+track_number = 5

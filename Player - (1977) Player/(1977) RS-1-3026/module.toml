@@ -1,0 +1,99 @@
+[metadata]
+catalog_number = "RS-1-3206"
+release_year = "1977"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "alexspkl"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Come On Out"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Baby Come Back"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Goodbye (That's All I Ever Heard)"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Melanie"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Every Which Way"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "This Time I'm in It for Love"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Love Is Where You Find It"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Movin' Up"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Cancellation"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Trying to Write a Hit Song"
+
+[children]
+[[children.files]]
+file = "Player - Player  1977(LP)/01 - Come On Out.wv"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Player - Player  1977(LP)/02 - Baby Come Back.wv"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Player - Player  1977(LP)/03 - Goodbye (That's All I Ever Heard).wv"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Player - Player  1977(LP)/04 - Melanie.wv"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Player - Player  1977(LP)/05 - Every Which Way.wv"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "Player - Player  1977(LP)/06 - This Time I'm In It For Love.wv"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Player - Player  1977(LP)/07 - Love Is Where You Find It.wv"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Player - Player  1977(LP)/08 - Movin' Up.wv"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "Player - Player  1977(LP)/09 - Cancellation.wv"
+disc_number = 2
+track_number = 4
+
+[[children.files]]
+file = "Player - Player  1977(LP)/10 - Tryin' To Write A Hit Song.wv"
+disc_number = 2
+track_number = 5

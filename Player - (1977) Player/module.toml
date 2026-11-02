@@ -1,0 +1,9 @@
+[metadata]
+artist = "Player"
+album = "Player"
+year = "1977"
+
+[children]
+modules = [
+	"(1977) RS-1-3026"
+]

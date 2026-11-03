@@ -1,0 +1,9 @@
+[metadata]
+artist = "Andrew Hill"
+album = "Point of Departure"
+year = "1965"
+
+[children]
+modules = [
+	"(2015) MMBST-84167"
+]

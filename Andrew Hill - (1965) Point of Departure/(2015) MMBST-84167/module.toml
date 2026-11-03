@@ -1,0 +1,54 @@
+[metadata]
+catalog_number = "MMBST-84167"
+release_year = "2015"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2015"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Refuge"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "New Monastery"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Spectrum"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Flight 19"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dedication"
+
+[children]
+[[children.files]]
+file = "Andrew Hill - Point Of Departure (MM 33)/01 - Refuge.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Andrew Hill - Point Of Departure (MM 33)/02 - New Monastery.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Andrew Hill - Point Of Departure (MM 33)/03 - Spectrum.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Andrew Hill - Point Of Departure (MM 33)/04 - Flight.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Andrew Hill - Point Of Departure (MM 33)/05 - Dedication.flac"
+disc_number = 2
+track_number = 3

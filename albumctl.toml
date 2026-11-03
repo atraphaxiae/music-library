@@ -14,6 +14,7 @@ clip_mode = "disabled"
 
 [children]
 modules = [
+	"Andrew Hill - (1965) Point of Departure",
 	"Art Blakey - (1959) Art Blakey and The Jazz Messengers [Moanin']",
 	"Art Blakey - (1961) A Night in Tunisia",
 	"Art Blakey - (1961) Mosaic",

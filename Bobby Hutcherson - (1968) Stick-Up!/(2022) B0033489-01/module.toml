@@ -1,0 +1,63 @@
+[metadata]
+catalog_number = "B0033489-01"
+release_year = "2022"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2022"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Una muy bonita"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "8-4 Beat"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Summer Nights"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Black Circle"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Verse"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Blues Mind Matter"
+
+[children]
+[[children.files]]
+file = "Bobby Hutcherson - Stick-Up! (Tone Poet)/01 - Una Muy Bonita.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Bobby Hutcherson - Stick-Up! (Tone Poet)/02 - 84 Beat.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Bobby Hutcherson - Stick-Up! (Tone Poet)/03 - Summer Nights.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Bobby Hutcherson - Stick-Up! (Tone Poet)/04 - Black Circle.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Bobby Hutcherson - Stick-Up! (Tone Poet)/05 - Verse.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Bobby Hutcherson - Stick-Up! (Tone Poet)/06 - Blues Mind Matter.flac"
+disc_number = 2
+track_number = 3

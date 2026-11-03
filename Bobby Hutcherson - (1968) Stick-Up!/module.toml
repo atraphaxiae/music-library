@@ -1,0 +1,9 @@
+[metadata]
+artist = "Bobby Hutcherson"
+album = "Stick-Up!"
+year = "1968"
+
+[children]
+modules = [
+	"(2022) B0033489-01"
+]

@@ -1,0 +1,72 @@
+[metadata]
+catalog_number = "YX-7580-ND"
+release_year = "1977"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "uta5erika5 2021"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Olive's Step"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Inner Wind"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Mellow Sunshine"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Movin' Nozzle"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sky"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Little Apple"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dindi"
+
+[children]
+[[children.files]]
+file = "Kazumi Watanabe – Olive's Step-1977/A1 Olive's Step.wv"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "Kazumi Watanabe – Olive's Step-1977/A2 Inner Wind.wv"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "Kazumi Watanabe – Olive's Step-1977/A3 Mellow Sunshine.wv"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "Kazumi Watanabe – Olive's Step-1977/A4 Movin' Nozzle.wv"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "Kazumi Watanabe – Olive's Step-1977/B1 Sky.wv"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "Kazumi Watanabe – Olive's Step-1977/B2 Little Apple.wv"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "Kazumi Watanabe – Olive's Step-1977/B3 Dindi.wv"
+disc_number = 2
+track_number = 3

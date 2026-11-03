@@ -1,0 +1,9 @@
+[metadata]
+artist = "渡辺香津美 [Kazumi Watanabe]"
+album = "Olive's Step"
+year = "1977"
+
+[children]
+modules = [
+	"(1977) YX-7580-ND"
+]

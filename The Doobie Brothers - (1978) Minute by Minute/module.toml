@@ -1,0 +1,9 @@
+[metadata]
+artist = "The Doobie Brothers"
+album = "Minute by Minute"
+year = "1978"
+
+[children]
+modules = [
+	"(2019) BSK 3193"
+]

@@ -1,0 +1,99 @@
+[metadata]
+catalog_number = "BSK 3193"
+release_year = "2019"
+media_type = "33 RPM"
+audio_channels = "Stereo"
+provenance = "PBTHAL 2021"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Here to Love You"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "What a Fool Believes"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Minute by Minute"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Dependin' on You"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Don't Stop to Watch the Wheels"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Open Your Eyes"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sweet Feelin'"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Steamer Lane Breakdown"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "You Never Change"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "How Do the Fools Survive?"
+
+[children]
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/01 - Here To Love You.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/02 - What A Fool Believes.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/03 - Minute By Minute.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/04 - Dependin' On You.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/05 - Don't Stop To Watch The Wheels.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/06 - Open Your Eyes.flac"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/07 - Sweet Feelin'.flac"
+disc_number = 2
+track_number = 2
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/08 - Steamer Lane Breakdown (Instrumental).flac"
+disc_number = 2
+track_number = 3
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/09 - You Never Change.flac"
+disc_number = 2
+track_number = 4
+
+[[children.files]]
+file = "The Doobie Brothers - Minute By Minute (Speakers Corner)/10 - How Do The Fools Survive.flac"
+disc_number = 2
+track_number = 5

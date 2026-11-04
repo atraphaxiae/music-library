@@ -1,0 +1,9 @@
+[metadata]
+artist = "John Coltrane"
+album = "My Favorite Things"
+year = "1961"
+
+[children]
+modules = [
+	"(2013) ORGM-1080"
+]

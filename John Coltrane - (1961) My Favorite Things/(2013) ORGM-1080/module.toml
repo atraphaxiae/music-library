@@ -1,0 +1,47 @@
+[metadata]
+catalog_number = "ORGM-1080"
+release_year = "2013"
+media_type = "45 RPM"
+audio_channels = "Stereo"
+provenance = "Misantrop"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "My Favorite Things"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Everytime We Say Goodbye"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Summertime"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "But Not for Me"
+
+[children]
+[[children.files]]
+file = "John Coltrane - 1961 - My Favorite Things (2013, ORGM-1080)/John Coltrane - 1961 - My Favorite Things (2013, ORGM-1080, side 1).dsf"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - 1961 - My Favorite Things (2013, ORGM-1080)/John Coltrane - 1961 - My Favorite Things (2013, ORGM-1080, side 2).dsf"
+disc_number = 2
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - 1961 - My Favorite Things (2013, ORGM-1080)/John Coltrane - 1961 - My Favorite Things (2013, ORGM-1080, side 3).dsf"
+disc_number = 3
+track_number = 1
+
+[[children.files]]
+file = "John Coltrane - 1961 - My Favorite Things (2013, ORGM-1080)/John Coltrane - 1961 - My Favorite Things (2013, ORGM-1080, side 4).dsf"
+disc_number = 4
+track_number = 1

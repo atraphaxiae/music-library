@@ -1,0 +1,116 @@
+[metadata]
+catalog_number = "VICL-18207"
+release_year = "1995"
+media_type = "CD"
+audio_channels = "Stereo"
+provenance = "OPS"
+
+[[discs]]
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wishes"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "五線紙のカウボーイ"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Sympathy"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Street Dancer"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Kiss Again"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Half Moon"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "女優"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Rose"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "処女航海"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "夕凪海岸"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "最後の旅"
+
+[[discs.tracks]]
+[discs.tracks.metadata]
+title = "Wishes"
+
+[children]
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/01. WISHES.flac"
+disc_number = 1
+track_number = 1
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/02. 五線紙のカウボーイ.flac"
+disc_number = 1
+track_number = 2
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/03. SYMPATHY.flac"
+disc_number = 1
+track_number = 3
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/04. STREET DANCER.flac"
+disc_number = 1
+track_number = 4
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/05. KISS AGAIN.flac"
+disc_number = 1
+track_number = 5
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/06. HALF MOON.flac"
+disc_number = 1
+track_number = 6
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/07. 女優.flac"
+disc_number = 1
+track_number = 7
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/08. ROSE.flac"
+disc_number = 1
+track_number = 8
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/09. 処女航海.flac"
+disc_number = 1
+track_number = 9
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/10. 夕凪海岸.flac"
+disc_number = 1
+track_number = 10
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/11. 最後の旅.flac"
+disc_number = 1
+track_number = 11
+
+[[children.files]]
+file = "[Orpheus] Hiromi Iwasaki (岩崎宏美) - 1980 - Wish {1995 - VICL-18207}[CD][FLAC]/12. WISHES.flac"
+disc_number = 1
+track_number = 12

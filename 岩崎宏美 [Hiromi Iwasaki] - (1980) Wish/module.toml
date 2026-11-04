@@ -1,0 +1,9 @@
+[metadata]
+artist = "岩崎宏美 [Hiromi Iwasaki]"
+album = "Wish"
+year = "1980"
+
+[children]
+modules = [
+	"(1995) VICL-18207"
+]
